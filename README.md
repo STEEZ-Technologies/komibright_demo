@@ -1,31 +1,82 @@
-# KomiBright website — deployment notes
+# KomiBright — Next.js rebuild
 
-Static multi-page site. No build step, no dependencies, no external fonts or CDNs — works in China as-is.
+A 1:1 rebuild of the static KomiBright site as a **Next.js 14 App Router** app,
+structured so the product/catalogue data can later be swapped from the local
+static files to a **Supabase CMS** without touching any rendering code.
 
-## What's inside
+Nothing was redesigned — the goal is a pixel- and structure-identical render of
+the original, with the markup componentised and the content moved into data.
 
-- 52 HTML pages: 26 English (root) + 26 Chinese (`/zh/`), mirrored 1:1
-- 7 core pages, 5 category pages, 13 product pages, FAQ, OEM/ODM, 404 — per language
-- `assets/` — CSS, JS, images (all self-hosted)
-- `sitemap.xml` + `robots.txt`
+## Run it
 
-## Deploy
+```bash
+npm install
+npm run dev      # http://localhost:3000
+npm run build    # static export to ./out  (npm start is not used — see below)
+```
 
-Any static host works. For GitHub Pages: push the folder contents to a repo, enable Pages, point DNS (A records 185.199.108–111.153 like your other demos).
+`npm run build` produces a fully static `out/` folder (`output: 'export'`) — the
+same deploy target as the current GitHub Pages site. Serve `out/` with any static
+host, or preview it locally with e.g. `npx serve out`.
 
-**Important:** all canonical/hreflang/OG URLs and the sitemap point to `https://komibright.com`. If deploying to a different domain (e.g. a steez.digital demo subdomain), do one find-and-replace of `https://komibright.com` across all files — or edit `BASE_URL` in the generator and rebuild.
+> Deploying to a demo subdomain? Same as the original: the canonical / hreflang /
+> OG URLs and `public/sitemap.xml` point at `https://komibright.com`. Do one
+> find-and-replace of that origin across `data/site-data.json`, `data/site.ts`,
+> `lib/i18n.ts` and `public/sitemap.xml` if you deploy elsewhere.
 
-## SEO already handled
+## How it's organised
 
-- Unique title + meta description per page, both languages
-- `hreflang` en/zh/x-default pairs on every page
-- JSON-LD: Organization, WebSite, Product (each product page), BreadcrumbList, FAQPage
-- Semantic HTML, one `h1` per page, descriptive alt text, lazy-loaded images
-- Keyword-rich URLs (e.g. `/products/kb-c25r-electricity-free-reverse-osmosis-system.html`)
+```
+app/
+  (en)/…            English routes at the site root  (/, /products.html, …)
+  (zh)/zh/…         Chinese routes under /zh          (/zh/…)
+  not-found.tsx     → out/404.html
+  globals.css       the original assets/css/style.css, verbatim
+components/         shared UI (server) + one client script
+  pages/            one view component per page type (drives EN + ZH)
+data/               ← the Supabase swap point (see below)
+lib/                i18n url/hreflang helpers + Metadata builder
+public/assets/img/  original .webp/.svg/.png, copied unchanged
+scripts/            postexport (zh home) + static validation
+```
 
-## Notes
+Two **root layouts** (via the `(en)` / `(zh)` route groups) exist only so each
+locale renders the correct `<html lang>` — `en` at the root, `zh-CN` under `/zh`.
 
-- Fonts: system stacks only (SF/Segoe/Roboto + PingFang/Microsoft YaHei) — nothing to load, fully China-safe
-- Inquiry form composes a mailto: email (static site, no backend). Swap in Formspree or similar if they want real form submissions later.
-- WhatsApp CTAs use their existing number (+886932137562) with prefilled per-product messages
-- The old site's "Ultrafiltration System" category was an empty page with a dead product link — dropped deliberately; the UF membrane accessory covers those keywords
+## The data layer (Supabase swap point)
+
+All content lives in `data/`, separate from the components:
+
+- `data/site-data.json` — the extracted per-product / per-page content (spec
+  tables, copy, meta, JSON-LD), bilingual. This is the placeholder "database".
+- `data/products.ts` — `getAllProducts()` / `getProduct()` / `getProducts()`.
+  **This is the only file to change for Supabase**: replace the JSON reads with a
+  Supabase query returning the same `Product` shape. Pages call these functions,
+  not the JSON, and everything is statically generated, so the CMS switch is a
+  build-time fetch + rebuild — no JSX changes.
+- `data/categories.ts` — category config + listing accessors (same pattern).
+- `data/pages.ts` — bespoke marketing-page copy (home, technology, about, OEM,
+  contact, 404), bilingual.
+- `data/site.ts` — global chrome (nav, footer, CTA, contact details).
+
+## Components extracted
+
+`ProductCard`, `CategoryCard`, `SpecTable`, `Breadcrumbs`, `Header`, `Footer`,
+`CtaBand`, `FeatureIcon`, `Img` (next/image wrapper), `JsonLd`, plus per-page
+views in `components/pages/`. `SiteScripts` is the single `'use client'`
+component — a faithful port of the original `assets/js/main.js` (mobile nav,
+gallery crossfade, header shadow, scroll-reveal, count-up, mailto form). Every
+piece of visible content is a server component.
+
+## SEO
+
+Each route sets title, description, canonical, `hreflang` (en / zh / x-default),
+Open Graph and Twitter tags via the App Router **Metadata API**, using the
+original strings verbatim (`lib/seo.ts`). JSON-LD (Organization, WebSite,
+Product, BreadcrumbList, FAQPage) is injected verbatim via `<JsonLd>` because the
+Metadata API doesn't emit it.
+
+## Verify without a full build
+
+`node scripts/validate.mjs` checks asset references, data completeness, per-page
+metadata and route coverage.

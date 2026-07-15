@@ -1,0 +1,4124 @@
+{
+  "products": [
+    {
+      "slug": "kb-c25r-electricity-free-reverse-osmosis-system",
+      "image": "/assets/img/c25r.webp",
+      "thumbs": [
+        "/assets/img/c25r.webp",
+        "/assets/img/c25r-alt.webp",
+        "/assets/img/c25r-detail.webp"
+      ],
+      "related": [
+        "f210-f910-compound-filter-cartridge",
+        "ro-membrane-100g-1000g",
+        "kb-c25rp-under-sink-ro-system-post-carbon"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RO Systems",
+            "item": "https://komibright.com/ro-systems.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-C25R"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RO反渗透净水器",
+            "item": "https://komibright.com/ro-systems.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-C25R"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-C25R 100G Electricity-Free Reverse Osmosis System",
+        "sku": "KB-C25R",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-C25R pumpless reverse osmosis water filter: 100G membrane, 0.0001 μm filtration, auto membrane flushing without power, filters replaced once a year. DIY installation.",
+        "image": "https://komibright.com/assets/img/c25r.webp",
+        "url": "https://komibright.com/products/kb-c25r-electricity-free-reverse-osmosis-system.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-C25R 100G 免电反渗透净水器",
+        "sku": "KB-C25R",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-C25R免泵反渗透净水器：100G RO膜，0.0001μm过滤精度，无需用电自动冲洗RO膜，滤芯一年一换，可自行安装。",
+        "image": "https://komibright.com/assets/img/c25r.webp",
+        "url": "https://komibright.com/zh/products/kb-c25r-electricity-free-reverse-osmosis-system.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "KB-C25R Electricity-Free RO Water Filter System 100G | KomiBright",
+        "description": "KB-C25R pumpless reverse osmosis water filter: 100G membrane, 0.0001 μm filtration, auto membrane flushing without power, filters replaced once a year. DIY installation.",
+        "canonical": "https://komibright.com/products/kb-c25r-electricity-free-reverse-osmosis-system.html",
+        "ogTitle": "KB-C25R Electricity-Free RO Water Filter System 100G | KomiBright",
+        "ogDescription": "KB-C25R pumpless reverse osmosis water filter: 100G membrane, 0.0001 μm filtration, auto membrane flushing without power, filters replaced once a year. DIY installation.",
+        "ogUrl": "https://komibright.com/products/kb-c25r-electricity-free-reverse-osmosis-system.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "sku": "KB-C25R",
+        "h1": "KB-C25R 100G Electricity-Free Reverse Osmosis System",
+        "lead": "The flagship pumpless RO system — 0.0001 μm pure water from tap pressure alone, one filter change a year.",
+        "galleryMain": "/assets/img/c25r.webp",
+        "galleryAlt": "KB-C25R 100G Electricity-Free Reverse Osmosis System",
+        "thumbs": [
+          "/assets/img/c25r.webp",
+          "/assets/img/c25r-alt.webp",
+          "/assets/img/c25r-detail.webp"
+        ],
+        "checklist": [
+          "PP5 food-grade materials throughout",
+          "Auto RO membrane flushing — without power",
+          "Super compound filter for longer service life",
+          "One housing with multi-membrane function",
+          "Innovative self-stabilising valves",
+          "Integrated built-in flow restrictor",
+          "Consumables replaced easily once a year",
+          "No redundant fittings or components"
+        ],
+        "spec": [
+          {
+            "k": "RO Membrane",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "Combo Filter",
+            "v": "F-210 (PP + Carbon Block)"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "Water Source",
+            "v": "Municipal tap water"
+          },
+          {
+            "k": "Inlet Pressure",
+            "v": "21–70 PSI (1.5–5 bar)"
+          },
+          {
+            "k": "Water Temperature",
+            "v": "5–35 °C"
+          },
+          {
+            "k": "Filter Replacement",
+            "v": "Every 12 months"
+          },
+          {
+            "k": "Dimensions",
+            "v": "D14×D20×H38 cm / D24×H35 cm"
+          }
+        ],
+        "prose": [
+          "The KB-C25R is the purest expression of KomiBright's KISS philosophy: a full reverse osmosis system with no pump, no power cord and no redundant fittings. As long as your tap delivers 1.5 bars of pressure, it delivers 0.0001 μm purified water — silently.",
+          "Instead of the three to five separate cartridges of a conventional RO machine, the C25R uses one super compound filter (PP + carbon block) and one 100G membrane in a single housing with a modularised waterway. The membrane flushes itself automatically — without electricity — extending its service life, and consumables are replaced in minutes, once a year, by anyone."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "RO membrane, combo filter, 3.2G pressure tank, spare parts kit",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20KB-C25R.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20KB-C25R",
+        "related": [
+          "f210-f910-compound-filter-cartridge",
+          "ro-membrane-100g-1000g",
+          "kb-c25rp-under-sink-ro-system-post-carbon"
+        ],
+        "card": {
+          "title": "KB-C25R 100G Electricity-Free Reverse Osmosis System",
+          "desc": "The flagship pumpless RO system — 0.0001 μm pure water from tap pressure alone, one filter change a year.",
+          "tag": "RO Systems",
+          "image": "/assets/img/c25r.webp",
+          "alt": "KB-C25R 100G Electricity-Free Reverse Osmosis System"
+        }
+      },
+      "zh": {
+        "title": "KB-C25R 100G免电反渗透净水器 | KomiBright",
+        "description": "KB-C25R免泵反渗透净水器：100G RO膜，0.0001μm过滤精度，无需用电自动冲洗RO膜，滤芯一年一换，可自行安装。",
+        "canonical": "https://komibright.com/zh/products/kb-c25r-electricity-free-reverse-osmosis-system.html",
+        "ogTitle": "KB-C25R 100G免电反渗透净水器 | KomiBright",
+        "ogDescription": "KB-C25R免泵反渗透净水器：100G RO膜，0.0001μm过滤精度，无需用电自动冲洗RO膜，滤芯一年一换，可自行安装。",
+        "ogUrl": "https://komibright.com/zh/products/kb-c25r-electricity-free-reverse-osmosis-system.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "sku": "KB-C25R",
+        "h1": "KB-C25R 100G 免电反渗透净水器",
+        "lead": "旗舰免泵RO净水器——只靠自来水压力，实现0.0001μm级净化，一年只换一次滤芯。",
+        "galleryMain": "/assets/img/c25r.webp",
+        "galleryAlt": "KB-C25R 100G 免电反渗透净水器",
+        "thumbs": [
+          "/assets/img/c25r.webp",
+          "/assets/img/c25r-alt.webp",
+          "/assets/img/c25r-detail.webp"
+        ],
+        "checklist": [
+          "全机采用PP5食品级材料",
+          "RO膜自动冲洗，全程无需用电",
+          "超级复合滤芯，使用寿命更长",
+          "单壳体多膜功能一体化设计",
+          "创新阀件，水路自动稳压",
+          "内置集成式限流器",
+          "耗材一年一换，轻松上手",
+          "无多余接头与零部件"
+        ],
+        "spec": [
+          {
+            "k": "RO膜",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "复合滤芯",
+            "v": "F-210（PP棉+碳纤维）"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "进水水源",
+            "v": "市政自来水"
+          },
+          {
+            "k": "进水压力",
+            "v": "21–70 PSI（1.5–5 bar）"
+          },
+          {
+            "k": "进水温度",
+            "v": "5–35℃"
+          },
+          {
+            "k": "滤芯更换",
+            "v": "每12个月一次"
+          },
+          {
+            "k": "产品尺寸",
+            "v": "D14×D20×H38cm / D24×H35cm"
+          }
+        ],
+        "prose": [
+          "KB-C25R 是 KomiBright「大道至简」理念最纯粹的体现：一台完整的反渗透净水器，没有泵、没有电源线、没有多余的接头。只要自来水有1.5公斤的水压，它就能安静地产出0.0001μm级的纯水。",
+          "传统RO机需要三到五支独立滤芯，C25R 只用一支超级复合滤芯（PP棉+碳纤维）和一支100G RO膜，集成在模块化水路的单一壳体内。RO膜无需用电即可自动冲洗，寿命更长；耗材一年只换一次，几分钟搞定，谁都会换。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "RO膜、复合滤芯、3.2G压力桶、备件包",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20KB-C25R%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：KB-C25R",
+        "related": [
+          "f210-f910-compound-filter-cartridge",
+          "ro-membrane-100g-1000g",
+          "kb-c25rp-under-sink-ro-system-post-carbon"
+        ],
+        "card": {
+          "title": "KB-C25R 100G 免电反渗透净水器",
+          "desc": "旗舰免泵RO净水器——只靠自来水压力，实现0.0001μm级净化，一年只换一次滤芯。",
+          "tag": "RO反渗透净水器",
+          "image": "/assets/img/c25r.webp",
+          "alt": "KB-C25R 100G 免电反渗透净水器"
+        }
+      }
+    },
+    {
+      "slug": "kb-c25rh-countertop-ro-water-purifier-smart-jar",
+      "image": "/assets/img/c25rh.webp",
+      "thumbs": [
+        "/assets/img/c25rh.webp",
+        "/assets/img/c25rh-alt.webp"
+      ],
+      "related": [
+        "smart-jar-zhh-a",
+        "kb-c25r-electricity-free-reverse-osmosis-system",
+        "f210-f910-compound-filter-cartridge"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RO Systems",
+            "item": "https://komibright.com/ro-systems.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-C25RH"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RO反渗透净水器",
+            "item": "https://komibright.com/ro-systems.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-C25RH"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-C25RH Desktop Smart Jar RO Water Purifier",
+        "sku": "KB-C25RH",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-C25RH countertop reverse osmosis purifier with smart jar: electricity-free RO filtration on your worktop, imported food-grade materials, one yearly filter change.",
+        "image": "https://komibright.com/assets/img/c25rh.webp",
+        "url": "https://komibright.com/products/kb-c25rh-countertop-ro-water-purifier-smart-jar.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-C25RH 台式智能壶RO净水器",
+        "sku": "KB-C25RH",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-C25RH台式智能壶RO净水器：不用电的台面反渗透净化，纯水直接入壶随倒随喝，进口食品级材料，无需橱下安装，滤芯一年只换一次。",
+        "image": "https://komibright.com/assets/img/c25rh.webp",
+        "url": "https://komibright.com/zh/products/kb-c25rh-countertop-ro-water-purifier-smart-jar.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "KB-C25RH Desktop Smart Jar RO Water Purifier | KomiBright",
+        "description": "KB-C25RH countertop reverse osmosis purifier with smart jar: electricity-free RO filtration on your worktop, imported food-grade materials, one yearly filter change.",
+        "canonical": "https://komibright.com/products/kb-c25rh-countertop-ro-water-purifier-smart-jar.html",
+        "ogTitle": "KB-C25RH Desktop Smart Jar RO Water Purifier | KomiBright",
+        "ogDescription": "KB-C25RH countertop reverse osmosis purifier with smart jar: electricity-free RO filtration on your worktop, imported food-grade materials, one yearly filter change.",
+        "ogUrl": "https://komibright.com/products/kb-c25rh-countertop-ro-water-purifier-smart-jar.html",
+        "ogImage": "https://komibright.com/assets/img/c25rh.webp",
+        "sku": "KB-C25RH",
+        "h1": "KB-C25RH Desktop Smart Jar RO Water Purifier",
+        "lead": "Countertop RO purification paired with a smart jar — no installation under the sink required.",
+        "galleryMain": "/assets/img/c25rh.webp",
+        "galleryAlt": "KB-C25RH Desktop Smart Jar RO Water Purifier",
+        "thumbs": [
+          "/assets/img/c25rh.webp",
+          "/assets/img/c25rh-alt.webp"
+        ],
+        "checklist": [
+          "Countertop format — no under-sink installation",
+          "Smart jar included for ready-to-pour water",
+          "Imported food-grade materials",
+          "Super compound filter, longer service life",
+          "One housing with multi-membrane function",
+          "Innovative self-stabilising valves",
+          "Modularised waterway design"
+        ],
+        "spec": [
+          {
+            "k": "RO Membrane",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "Combo Filter",
+            "v": "F-210 (PP + Carbon Block)"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "Water Source",
+            "v": "Municipal tap water"
+          },
+          {
+            "k": "Inlet Pressure",
+            "v": "21–70 PSI (1.5–5 bar)"
+          },
+          {
+            "k": "Water Temperature",
+            "v": "5–35 °C"
+          },
+          {
+            "k": "Filter Replacement",
+            "v": "Every 12 months"
+          },
+          {
+            "k": "Placement",
+            "v": "Countertop (desktop)"
+          }
+        ],
+        "prose": [
+          "The KB-C25RH brings pumpless RO purification onto the countertop. Purified water collects in the companion smart jar, ready to pour — ideal for kitchens where under-sink installation isn't practical, for offices, or for rental homes.",
+          "It shares the C25R platform: a super compound filter and multi-membrane housing, self-stabilising valves, and a modularised waterway with no redundant fittings. Same 0.0001 μm result, zero electricity."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "RO membrane, combo filter, smart jar",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20KB-C25RH.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20KB-C25RH",
+        "related": [
+          "smart-jar-zhh-a",
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "f210-f910-compound-filter-cartridge"
+        ],
+        "card": {
+          "title": "KB-C25RH Desktop Smart Jar RO Water Purifier",
+          "desc": "Countertop RO purification paired with a smart jar — no installation under the sink required.",
+          "tag": "RO Systems",
+          "image": "/assets/img/c25rh.webp",
+          "alt": "KB-C25RH Desktop Smart Jar RO Water Purifier"
+        }
+      },
+      "zh": {
+        "title": "KB-C25RH 台式智能壶RO净水器 | KomiBright",
+        "description": "KB-C25RH台式智能壶RO净水器：不用电的台面反渗透净化，纯水直接入壶随倒随喝，进口食品级材料，无需橱下安装，滤芯一年只换一次。",
+        "canonical": "https://komibright.com/zh/products/kb-c25rh-countertop-ro-water-purifier-smart-jar.html",
+        "ogTitle": "KB-C25RH 台式智能壶RO净水器 | KomiBright",
+        "ogDescription": "KB-C25RH台式智能壶RO净水器：不用电的台面反渗透净化，纯水直接入壶随倒随喝，进口食品级材料，无需橱下安装，滤芯一年只换一次。",
+        "ogUrl": "https://komibright.com/zh/products/kb-c25rh-countertop-ro-water-purifier-smart-jar.html",
+        "ogImage": "https://komibright.com/assets/img/c25rh.webp",
+        "sku": "KB-C25RH",
+        "h1": "KB-C25RH 台式智能壶RO净水器",
+        "lead": "台式RO净化搭配智能壶——无需在水槽下安装。",
+        "galleryMain": "/assets/img/c25rh.webp",
+        "galleryAlt": "KB-C25RH 台式智能壶RO净水器",
+        "thumbs": [
+          "/assets/img/c25rh.webp",
+          "/assets/img/c25rh-alt.webp"
+        ],
+        "checklist": [
+          "台式设计，无需橱下安装",
+          "标配智能壶，随倒随喝",
+          "进口食品级材料",
+          "超级复合滤芯，寿命更长",
+          "单壳体多膜功能一体化",
+          "创新自稳压阀件",
+          "模块化水路设计"
+        ],
+        "spec": [
+          {
+            "k": "RO膜",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "复合滤芯",
+            "v": "F-210（PP棉+碳纤维）"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "进水水源",
+            "v": "市政自来水"
+          },
+          {
+            "k": "进水压力",
+            "v": "21–70 PSI（1.5–5 bar）"
+          },
+          {
+            "k": "进水温度",
+            "v": "5–35℃"
+          },
+          {
+            "k": "滤芯更换",
+            "v": "每12个月一次"
+          },
+          {
+            "k": "安装方式",
+            "v": "台式（桌面放置）"
+          }
+        ],
+        "prose": [
+          "KB-C25RH 把免泵RO净化搬上了台面。净化后的水直接流入配套的智能壶，随倒随喝——特别适合不方便做橱下安装的厨房、办公室或租住的家。",
+          "它与C25R同平台：超级复合滤芯、多膜一体壳体、自稳压阀件、无多余接头的模块化水路。同样的0.0001μm净化效果，同样不用电。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "RO膜、复合滤芯、智能壶",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20KB-C25RH%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：KB-C25RH",
+        "related": [
+          "smart-jar-zhh-a",
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "f210-f910-compound-filter-cartridge"
+        ],
+        "card": {
+          "title": "KB-C25RH 台式智能壶RO净水器",
+          "desc": "台式RO净化搭配智能壶——无需在水槽下安装。",
+          "tag": "RO反渗透净水器",
+          "image": "/assets/img/c25rh.webp",
+          "alt": "KB-C25RH 台式智能壶RO净水器"
+        }
+      }
+    },
+    {
+      "slug": "kb-c25rp-under-sink-ro-system-post-carbon",
+      "image": "/assets/img/c25rp.webp",
+      "thumbs": [
+        "/assets/img/c25rp.webp",
+        "/assets/img/c25rp-alt.webp"
+      ],
+      "related": [
+        "post-carbon-filter-st33-kb33",
+        "kb-c25r-electricity-free-reverse-osmosis-system",
+        "pressurized-water-tank-3-2g"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RO Systems",
+            "item": "https://komibright.com/ro-systems.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-C25RP"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RO反渗透净水器",
+            "item": "https://komibright.com/ro-systems.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-C25RP"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-C25RP RO System with Post Carbon Filter",
+        "sku": "KB-C25RP",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-C25RP under-sink reverse osmosis water filter with post carbon polishing filter — electricity-free operation, 0.0001 μm filtration, yearly filter change.",
+        "image": "https://komibright.com/assets/img/c25rp.webp",
+        "url": "https://komibright.com/products/kb-c25rp-under-sink-ro-system-post-carbon.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-C25RP 带后置炭RO净水器",
+        "sku": "KB-C25RP",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-C25RP橱下反渗透净水器，带后置炭滤芯改善口感——不用电，0.0001μm过滤，滤芯一年一换。",
+        "image": "https://komibright.com/assets/img/c25rp.webp",
+        "url": "https://komibright.com/zh/products/kb-c25rp-under-sink-ro-system-post-carbon.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "KB-C25RP Under-Sink RO Water Filter with Post Carbon | KomiBright",
+        "description": "KB-C25RP under-sink reverse osmosis water filter with post carbon polishing filter — electricity-free operation, 0.0001 μm filtration, yearly filter change.",
+        "canonical": "https://komibright.com/products/kb-c25rp-under-sink-ro-system-post-carbon.html",
+        "ogTitle": "KB-C25RP Under-Sink RO Water Filter with Post Carbon | KomiBright",
+        "ogDescription": "KB-C25RP under-sink reverse osmosis water filter with post carbon polishing filter — electricity-free operation, 0.0001 μm filtration, yearly filter change.",
+        "ogUrl": "https://komibright.com/products/kb-c25rp-under-sink-ro-system-post-carbon.html",
+        "ogImage": "https://komibright.com/assets/img/c25rp.webp",
+        "sku": "KB-C25RP",
+        "h1": "KB-C25RP RO System with Post Carbon Filter",
+        "lead": "The C25R platform plus a nano-silver post carbon filter for polished taste.",
+        "galleryMain": "/assets/img/c25rp.webp",
+        "galleryAlt": "KB-C25RP RO System with Post Carbon Filter",
+        "thumbs": [
+          "/assets/img/c25rp.webp",
+          "/assets/img/c25rp-alt.webp"
+        ],
+        "checklist": [
+          "Post carbon polishing stage for better taste",
+          "PP5 food-grade professional materials",
+          "Auto RO membrane flushing without power",
+          "Super compound filter, longer service life",
+          "One housing with multi-membrane function",
+          "Integrated built-in flow restrictor",
+          "Consumables replaced once a year"
+        ],
+        "spec": [
+          {
+            "k": "RO Membrane",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "Combo Filter",
+            "v": "F-210 (PP + Carbon Block)"
+          },
+          {
+            "k": "Post Filter",
+            "v": "ST33 / KB33 nano-silver carbon"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "Water Source",
+            "v": "Municipal tap water"
+          },
+          {
+            "k": "Inlet Pressure",
+            "v": "21–70 PSI (1.5–5 bar)"
+          },
+          {
+            "k": "Filter Replacement",
+            "v": "Every 12 months"
+          }
+        ],
+        "prose": [
+          "The KB-C25RP adds a post carbon stage to the proven C25R platform. After the membrane, water passes through a nano-silver composite carbon filter that rounds off the taste — the difference you notice in the first glass.",
+          "Everything else stays refreshingly simple: pumpless and electricity-free operation, auto membrane flushing, food-grade PP5 materials, and consumables that anyone can replace once a year."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "RO membrane, combo filter, post carbon filter, pressure tank, spare parts kit",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20KB-C25RP.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20KB-C25RP",
+        "related": [
+          "post-carbon-filter-st33-kb33",
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "pressurized-water-tank-3-2g"
+        ],
+        "card": {
+          "title": "KB-C25RP RO System with Post Carbon Filter",
+          "desc": "The C25R platform plus a nano-silver post carbon filter for polished taste.",
+          "tag": "RO Systems",
+          "image": "/assets/img/c25rp.webp",
+          "alt": "KB-C25RP RO System with Post Carbon Filter"
+        }
+      },
+      "zh": {
+        "title": "KB-C25RP 带后置炭橱下RO净水器 | KomiBright",
+        "description": "KB-C25RP橱下反渗透净水器，带后置炭滤芯改善口感——不用电，0.0001μm过滤，滤芯一年一换。",
+        "canonical": "https://komibright.com/zh/products/kb-c25rp-under-sink-ro-system-post-carbon.html",
+        "ogTitle": "KB-C25RP 带后置炭橱下RO净水器 | KomiBright",
+        "ogDescription": "KB-C25RP橱下反渗透净水器，带后置炭滤芯改善口感——不用电，0.0001μm过滤，滤芯一年一换。",
+        "ogUrl": "https://komibright.com/zh/products/kb-c25rp-under-sink-ro-system-post-carbon.html",
+        "ogImage": "https://komibright.com/assets/img/c25rp.webp",
+        "sku": "KB-C25RP",
+        "h1": "KB-C25RP 带后置炭RO净水器",
+        "lead": "C25R平台加装纳米银后置炭滤芯，口感更清甜。",
+        "galleryMain": "/assets/img/c25rp.webp",
+        "galleryAlt": "KB-C25RP 带后置炭RO净水器",
+        "thumbs": [
+          "/assets/img/c25rp.webp",
+          "/assets/img/c25rp-alt.webp"
+        ],
+        "checklist": [
+          "后置炭抛光环节，口感更好",
+          "PP5食品级专业材料",
+          "RO膜自动冲洗，无需用电",
+          "超级复合滤芯，寿命更长",
+          "单壳体多膜功能一体化",
+          "内置集成式限流器",
+          "耗材一年一换"
+        ],
+        "spec": [
+          {
+            "k": "RO膜",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "复合滤芯",
+            "v": "F-210（PP棉+碳纤维）"
+          },
+          {
+            "k": "后置滤芯",
+            "v": "ST33 / KB33 纳米银炭"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "进水水源",
+            "v": "市政自来水"
+          },
+          {
+            "k": "进水压力",
+            "v": "21–70 PSI（1.5–5 bar）"
+          },
+          {
+            "k": "滤芯更换",
+            "v": "每12个月一次"
+          }
+        ],
+        "prose": [
+          "KB-C25RP 在成熟的C25R平台上增加了后置炭环节。经过RO膜后，水会再流经一支纳米银复合炭滤芯，口感更圆润清甜——第一杯就能喝出区别。",
+          "其余部分依旧简单到极致：免泵免电运行、RO膜自动冲洗、PP5食品级材料，耗材一年一换，谁都能自己动手。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "RO膜、复合滤芯、后置炭滤芯、压力桶、备件包",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20KB-C25RP%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：KB-C25RP",
+        "related": [
+          "post-carbon-filter-st33-kb33",
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "pressurized-water-tank-3-2g"
+        ],
+        "card": {
+          "title": "KB-C25RP 带后置炭RO净水器",
+          "desc": "C25R平台加装纳米银后置炭滤芯，口感更清甜。",
+          "tag": "RO反渗透净水器",
+          "image": "/assets/img/c25rp.webp",
+          "alt": "KB-C25RP 带后置炭RO净水器"
+        }
+      }
+    },
+    {
+      "slug": "customized-housing-ro-water-purifier",
+      "image": "/assets/img/custom.webp",
+      "thumbs": [
+        "/assets/img/custom.webp",
+        "/assets/img/custom-alt.webp"
+      ],
+      "related": [
+        "kb-c25r-electricity-free-reverse-osmosis-system",
+        "kb-c25rh-countertop-ro-water-purifier-smart-jar"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RO Systems",
+            "item": "https://komibright.com/ro-systems.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OEM / ODM"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "RO反渗透净水器",
+            "item": "https://komibright.com/ro-systems.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "OEM / ODM"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "RO Home Water Purifier — Customized Housing",
+        "sku": "OEM / ODM",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "OEM/ODM reverse osmosis water purifier with customizable housing colours. KomiBright's patented pumpless RO platform, branded for your market.",
+        "image": "https://komibright.com/assets/img/custom.webp",
+        "url": "https://komibright.com/products/customized-housing-ro-water-purifier.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "定制外观家用RO净水器（OEM/ODM）",
+        "sku": "OEM / ODM",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "可定制外壳颜色的OEM/ODM反渗透净水器。基于KomiBright专利免泵RO平台，为您的市场贴牌打造。",
+        "image": "https://komibright.com/assets/img/custom.webp",
+        "url": "https://komibright.com/zh/products/customized-housing-ro-water-purifier.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "Customized Housing RO Water Purifier — OEM/ODM | KomiBright",
+        "description": "OEM/ODM reverse osmosis water purifier with customizable housing colours. KomiBright's patented pumpless RO platform, branded for your market.",
+        "canonical": "https://komibright.com/products/customized-housing-ro-water-purifier.html",
+        "ogTitle": "Customized Housing RO Water Purifier — OEM/ODM | KomiBright",
+        "ogDescription": "OEM/ODM reverse osmosis water purifier with customizable housing colours. KomiBright's patented pumpless RO platform, branded for your market.",
+        "ogUrl": "https://komibright.com/products/customized-housing-ro-water-purifier.html",
+        "ogImage": "https://komibright.com/assets/img/custom.webp",
+        "sku": "OEM / ODM",
+        "h1": "RO Home Water Purifier — Customized Housing",
+        "lead": "The C25R platform in your brand's colours and housing — built for distributors and OEM partners.",
+        "galleryMain": "/assets/img/custom.webp",
+        "galleryAlt": "RO Home Water Purifier — Customized Housing",
+        "thumbs": [
+          "/assets/img/custom.webp",
+          "/assets/img/custom-alt.webp"
+        ],
+        "checklist": [
+          "Housing colours customized to your brand",
+          "OEM & ODM orders welcome",
+          "Original patented pumpless RO platform",
+          "Imported food-grade materials",
+          "Super compound filter, longer service life",
+          "Self-stabilising valve system",
+          "Modularised waterway design"
+        ],
+        "spec": [
+          {
+            "k": "Platform",
+            "v": "KB-C25R pumpless RO"
+          },
+          {
+            "k": "RO Membrane",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "Housing",
+            "v": "Colours customizable for OEM orders"
+          },
+          {
+            "k": "Inlet Pressure",
+            "v": "21–70 PSI (1.5–5 bar)"
+          },
+          {
+            "k": "Filter Replacement",
+            "v": "Every 12 months"
+          }
+        ],
+        "prose": [
+          "As the original designer and patent owner of pumpless RO technology, KomiBright offers the proven C25R platform with customized housings — your colours, your brand, your market.",
+          "A professional R&D department handles the engineering; you choose the look. Different housing colours are available for customized orders, backed by the same super compound filter, self-stabilising valves and modularised waterway as the flagship system."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "Configured per OEM/ODM order",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20OEM%20/%20ODM.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20OEM%20/%20ODM",
+        "related": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c25rh-countertop-ro-water-purifier-smart-jar"
+        ],
+        "card": {
+          "title": "RO Home Water Purifier — Customized Housing",
+          "desc": "The C25R platform in your brand's colours and housing — built for distributors and OEM partners.",
+          "tag": "RO Systems",
+          "image": "/assets/img/custom.webp",
+          "alt": "RO Home Water Purifier — Customized Housing"
+        }
+      },
+      "zh": {
+        "title": "定制外观RO净水器（OEM/ODM代工）| KomiBright",
+        "description": "可定制外壳颜色的OEM/ODM反渗透净水器。基于KomiBright专利免泵RO平台，为您的市场贴牌打造。",
+        "canonical": "https://komibright.com/zh/products/customized-housing-ro-water-purifier.html",
+        "ogTitle": "定制外观RO净水器（OEM/ODM代工）| KomiBright",
+        "ogDescription": "可定制外壳颜色的OEM/ODM反渗透净水器。基于KomiBright专利免泵RO平台，为您的市场贴牌打造。",
+        "ogUrl": "https://komibright.com/zh/products/customized-housing-ro-water-purifier.html",
+        "ogImage": "https://komibright.com/assets/img/custom.webp",
+        "sku": "OEM / ODM",
+        "h1": "定制外观家用RO净水器（OEM/ODM）",
+        "lead": "以您品牌的配色与外观呈现C25R平台——专为经销商与OEM伙伴打造。",
+        "galleryMain": "/assets/img/custom.webp",
+        "galleryAlt": "定制外观家用RO净水器（OEM/ODM）",
+        "thumbs": [
+          "/assets/img/custom.webp",
+          "/assets/img/custom-alt.webp"
+        ],
+        "checklist": [
+          "外壳颜色按品牌需求定制",
+          "支持OEM与ODM订单",
+          "原创专利免泵RO平台",
+          "进口食品级材料",
+          "超级复合滤芯，寿命更长",
+          "自稳压阀件系统",
+          "模块化水路设计"
+        ],
+        "spec": [
+          {
+            "k": "产品平台",
+            "v": "KB-C25R 免泵RO"
+          },
+          {
+            "k": "RO膜",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "外壳",
+            "v": "OEM订单可定制颜色"
+          },
+          {
+            "k": "进水压力",
+            "v": "21–70 PSI（1.5–5 bar）"
+          },
+          {
+            "k": "滤芯更换",
+            "v": "每12个月一次"
+          }
+        ],
+        "prose": [
+          "作为免泵RO技术的原创设计者与专利持有者，KomiBright 可基于成熟的C25R平台提供定制外壳——您的配色、您的品牌、您的市场。",
+          "专业研发部门负责工程实现，您只需确定外观。定制订单可选不同外壳颜色，核心依然是旗舰机同款的超级复合滤芯、自稳压阀件与模块化水路。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "按OEM/ODM订单配置",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20OEM%20/%20ODM%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：OEM%20/%20ODM",
+        "related": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c25rh-countertop-ro-water-purifier-smart-jar"
+        ],
+        "card": {
+          "title": "定制外观家用RO净水器（OEM/ODM）",
+          "desc": "以您品牌的配色与外观呈现C25R平台——专为经销商与OEM伙伴打造。",
+          "tag": "RO反渗透净水器",
+          "image": "/assets/img/custom.webp",
+          "alt": "定制外观家用RO净水器（OEM/ODM）"
+        }
+      }
+    },
+    {
+      "slug": "kb-c100r-tankless-direct-flow-ro-system",
+      "image": "/assets/img/c100r.webp",
+      "thumbs": [
+        "/assets/img/c100r.webp",
+        "/assets/img/c100r-alt.webp"
+      ],
+      "related": [
+        "ro-membrane-100g-1000g",
+        "f210-f910-compound-filter-cartridge",
+        "kb-c25r-electricity-free-reverse-osmosis-system"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Direct Flow RO",
+            "item": "https://komibright.com/direct-flow-ro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-C100R"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "无桶大流量RO",
+            "item": "https://komibright.com/direct-flow-ro.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-C100R"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-C100R Tankless & Pumpless Direct Flow RO System",
+        "sku": "KB-C100R",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-C100R tankless direct-flow RO system: 1000G membrane, 304 stainless steel housing, dual outlets for drinking and cooking. No pump needed at 3-bar pressure.",
+        "image": "https://komibright.com/assets/img/c100r.webp",
+        "url": "https://komibright.com/products/kb-c100r-tankless-direct-flow-ro-system.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-C100R 无桶无泵大流量RO净水器",
+        "sku": "KB-C100R",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-C100R无桶直饮反渗透净水器：1000G大通量RO膜，304不锈钢外壳，外置压力表，饮用/烹饪双出水口。水压3公斤即可免泵使用。",
+        "image": "https://komibright.com/assets/img/c100r.webp",
+        "url": "https://komibright.com/zh/products/kb-c100r-tankless-direct-flow-ro-system.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "KB-C100R Tankless Pumpless Direct Flow RO System (1000G) | KomiBright",
+        "description": "KB-C100R tankless direct-flow RO system: 1000G membrane, 304 stainless steel housing, dual outlets for drinking and cooking. No pump needed at 3-bar pressure.",
+        "canonical": "https://komibright.com/products/kb-c100r-tankless-direct-flow-ro-system.html",
+        "ogTitle": "KB-C100R Tankless Pumpless Direct Flow RO System (1000G) | KomiBright",
+        "ogDescription": "KB-C100R tankless direct-flow RO system: 1000G membrane, 304 stainless steel housing, dual outlets for drinking and cooking. No pump needed at 3-bar pressure.",
+        "ogUrl": "https://komibright.com/products/kb-c100r-tankless-direct-flow-ro-system.html",
+        "ogImage": "https://komibright.com/assets/img/c100r.webp",
+        "sku": "KB-C100R",
+        "h1": "KB-C100R Tankless & Pumpless Direct Flow RO System",
+        "lead": "1000G direct-flow RO in a 304 stainless steel housing — two outlets, no tank, no pump.",
+        "galleryMain": "/assets/img/c100r.webp",
+        "galleryAlt": "KB-C100R Tankless & Pumpless Direct Flow RO System",
+        "thumbs": [
+          "/assets/img/c100r.webp",
+          "/assets/img/c100r-alt.webp"
+        ],
+        "checklist": [
+          "1000G membrane — big direct flow, no tank",
+          "304 stainless steel housing with clamp",
+          "Dual outlets: RO drinking + pre-filtered cooking water",
+          "External pressure gauge for at-a-glance monitoring",
+          "Pleated PP + precision activated carbon compound filter",
+          "Modularised waterway with built-in flow restrictor",
+          "No pump needed with 3-bar tap pressure"
+        ],
+        "spec": [
+          {
+            "k": "RO Membrane",
+            "v": "CN-3812-1000G"
+          },
+          {
+            "k": "Combo Filter",
+            "v": "F-910 (PP + Carbon Block)"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "Water Source",
+            "v": "Municipal tap water"
+          },
+          {
+            "k": "Inlet Pressure",
+            "v": "30–70 PSI (2–5 bar)"
+          },
+          {
+            "k": "Water Temperature",
+            "v": "5–35 °C"
+          },
+          {
+            "k": "Filter Replacement",
+            "v": "Every 12 months"
+          },
+          {
+            "k": "Dimensions",
+            "v": "D18×H41 cm"
+          }
+        ],
+        "prose": [
+          "The KB-C100R delivers big-flow, on-demand RO water with no storage tank and no pump. Its CN-3812-1000G membrane purifies water as you draw it, while the 304 stainless steel clamp housing stands up to residential and light commercial duty.",
+          "Two outlets make it genuinely practical: one delivers RO water for drinking after the membrane; the other supplies pre-filtered water for cooking and washing food. An external pressure gauge lets you monitor housing pressure at a glance — and with 3 bars of tap pressure, no pump kit is needed at all."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "RO membrane, combo filter, 2-in-1 faucet",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20KB-C100R.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20KB-C100R",
+        "related": [
+          "ro-membrane-100g-1000g",
+          "f210-f910-compound-filter-cartridge",
+          "kb-c25r-electricity-free-reverse-osmosis-system"
+        ],
+        "card": {
+          "title": "KB-C100R Tankless & Pumpless Direct Flow RO System",
+          "desc": "1000G direct-flow RO in a 304 stainless steel housing — two outlets, no tank, no pump.",
+          "tag": "Direct Flow RO",
+          "image": "/assets/img/c100r.webp",
+          "alt": "KB-C100R Tankless & Pumpless Direct Flow RO System"
+        }
+      },
+      "zh": {
+        "title": "KB-C100R 无桶无泵1000G大流量RO净水器 | KomiBright",
+        "description": "KB-C100R无桶直饮反渗透净水器：1000G大通量RO膜，304不锈钢外壳，外置压力表，饮用/烹饪双出水口。水压3公斤即可免泵使用。",
+        "canonical": "https://komibright.com/zh/products/kb-c100r-tankless-direct-flow-ro-system.html",
+        "ogTitle": "KB-C100R 无桶无泵1000G大流量RO净水器 | KomiBright",
+        "ogDescription": "KB-C100R无桶直饮反渗透净水器：1000G大通量RO膜，304不锈钢外壳，外置压力表，饮用/烹饪双出水口。水压3公斤即可免泵使用。",
+        "ogUrl": "https://komibright.com/zh/products/kb-c100r-tankless-direct-flow-ro-system.html",
+        "ogImage": "https://komibright.com/assets/img/c100r.webp",
+        "sku": "KB-C100R",
+        "h1": "KB-C100R 无桶无泵大流量RO净水器",
+        "lead": "1000G大通量直饮RO，304不锈钢外壳——双出水口，无桶无泵。",
+        "galleryMain": "/assets/img/c100r.webp",
+        "galleryAlt": "KB-C100R 无桶无泵大流量RO净水器",
+        "thumbs": [
+          "/assets/img/c100r.webp",
+          "/assets/img/c100r-alt.webp"
+        ],
+        "checklist": [
+          "1000G大通量膜——无桶直饮大流量",
+          "304不锈钢卡箍外壳",
+          "双出水口：RO直饮水+预过滤生活用水",
+          "外置压力表，压力一目了然",
+          "折叠PP棉+精密活性炭复合滤芯",
+          "模块化水路，内置限流器",
+          "水压3公斤即可免泵使用"
+        ],
+        "spec": [
+          {
+            "k": "RO膜",
+            "v": "CN-3812-1000G"
+          },
+          {
+            "k": "复合滤芯",
+            "v": "F-910（PP棉+碳纤维）"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "进水水源",
+            "v": "市政自来水"
+          },
+          {
+            "k": "进水压力",
+            "v": "30–70 PSI（2–5 bar）"
+          },
+          {
+            "k": "进水温度",
+            "v": "5–35℃"
+          },
+          {
+            "k": "滤芯更换",
+            "v": "每12个月一次"
+          },
+          {
+            "k": "产品尺寸",
+            "v": "D18×H41cm"
+          }
+        ],
+        "prose": [
+          "KB-C100R 无需储水桶、无需泵，即滤即饮的大流量RO净水器。CN-3812-1000G大通量膜随取随滤，304不锈钢卡箍外壳足以胜任家用与轻商用场景。",
+          "双出水口设计非常实用：一路出RO纯水供直饮，另一路出预过滤水用于做饭洗菜。外置压力表随时掌握壳体内压力——自来水有3公斤压力时，完全不需要加装泵组。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "RO膜、复合滤芯、二合一水龙头",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20KB-C100R%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：KB-C100R",
+        "related": [
+          "ro-membrane-100g-1000g",
+          "f210-f910-compound-filter-cartridge",
+          "kb-c25r-electricity-free-reverse-osmosis-system"
+        ],
+        "card": {
+          "title": "KB-C100R 无桶无泵大流量RO净水器",
+          "desc": "1000G大通量直饮RO，304不锈钢外壳——双出水口，无桶无泵。",
+          "tag": "无桶大流量RO",
+          "image": "/assets/img/c100r.webp",
+          "alt": "KB-C100R 无桶无泵大流量RO净水器"
+        }
+      }
+    },
+    {
+      "slug": "kb-a95r-outdoor-ro-water-purifier",
+      "image": "/assets/img/a95r.webp",
+      "thumbs": [
+        "/assets/img/a95r.webp",
+        "/assets/img/a95r-alt.webp",
+        "/assets/img/a95r-detail.webp"
+      ],
+      "related": [
+        "kb-c25r-electricity-free-reverse-osmosis-system",
+        "f210-f910-compound-filter-cartridge",
+        "ro-membrane-100g-1000g"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Outdoor Purifiers",
+            "item": "https://komibright.com/outdoor-water-purifiers.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-A95R"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "户外净水器",
+            "item": "https://komibright.com/outdoor-water-purifiers.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "KB-A95R"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-A95R 100G Outdoor RO Water Purifier",
+        "sku": "KB-A95R",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-A95R portable outdoor reverse osmosis purifier: filters tap, river and lake water to 0.0001 μm without electricity. Built for camping, RV and off-grid use.",
+        "image": "https://komibright.com/assets/img/a95r.webp",
+        "url": "https://komibright.com/products/kb-a95r-outdoor-ro-water-purifier.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "KB-A95R 100G 户外便携RO净水器",
+        "sku": "KB-A95R",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KB-A95R户外便携反渗透净水器：无需用电，将自来水、河水、湖水净化至0.0001μm。为露营、房车与离网场景打造。",
+        "image": "https://komibright.com/assets/img/a95r.webp",
+        "url": "https://komibright.com/zh/products/kb-a95r-outdoor-ro-water-purifier.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "KB-A95R Outdoor Portable RO Water Purifier (100G) | KomiBright",
+        "description": "KB-A95R portable outdoor reverse osmosis purifier: filters tap, river and lake water to 0.0001 μm without electricity. Built for camping, RV and off-grid use.",
+        "canonical": "https://komibright.com/products/kb-a95r-outdoor-ro-water-purifier.html",
+        "ogTitle": "KB-A95R Outdoor Portable RO Water Purifier (100G) | KomiBright",
+        "ogDescription": "KB-A95R portable outdoor reverse osmosis purifier: filters tap, river and lake water to 0.0001 μm without electricity. Built for camping, RV and off-grid use.",
+        "ogUrl": "https://komibright.com/products/kb-a95r-outdoor-ro-water-purifier.html",
+        "ogImage": "https://komibright.com/assets/img/a95r.webp",
+        "sku": "KB-A95R",
+        "h1": "KB-A95R 100G Outdoor RO Water Purifier",
+        "lead": "Portable reverse osmosis for camping and RV life — purifies tap, river and lake water without power.",
+        "galleryMain": "/assets/img/a95r.webp",
+        "galleryAlt": "KB-A95R 100G Outdoor RO Water Purifier",
+        "thumbs": [
+          "/assets/img/a95r.webp",
+          "/assets/img/a95r-alt.webp",
+          "/assets/img/a95r-detail.webp"
+        ],
+        "checklist": [
+          "Purifies tap water, rivers and lakes",
+          "Portable outdoor RO format",
+          "Pre-PP filter for rough source water",
+          "PP5 food-grade materials",
+          "Super compound filter, longer service life",
+          "Modularised waterway design",
+          "Consumables replaced once a year"
+        ],
+        "spec": [
+          {
+            "k": "RO Membrane",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "Combo Filter",
+            "v": "F-210 (PP + Carbon Block)"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "Water Source",
+            "v": "Tap water, rivers and lakes"
+          },
+          {
+            "k": "Inlet Pressure",
+            "v": "21–70 PSI (1.5–5 bar)"
+          },
+          {
+            "k": "Water Temperature",
+            "v": "5–35 °C"
+          },
+          {
+            "k": "Filter Replacement",
+            "v": "Every 12 months"
+          },
+          {
+            "k": "Dimensions",
+            "v": "L25×W14×H38 cm"
+          }
+        ],
+        "prose": [
+          "Far from the city, every water source is a question mark. The KB-A95R answers it with true reverse osmosis: 0.0001 μm filtration that removes sediment, microorganisms, bacteria and viruses from tap water, rivers and lakes — with zero electricity.",
+          "The compact chassis combines an outdoor filtration system with a genuinely portable format. A pre-PP filter handles rough source water before the compound filter and membrane take over. Camping deep in the mountains or touring by RV, clean drinking water stops being a logistics problem."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "RO membrane, combo filter, pre-PP filter, spare parts kit",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20KB-A95R.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20KB-A95R",
+        "related": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "f210-f910-compound-filter-cartridge",
+          "ro-membrane-100g-1000g"
+        ],
+        "card": {
+          "title": "KB-A95R 100G Outdoor RO Water Purifier",
+          "desc": "Portable reverse osmosis for camping and RV life — purifies tap, river and lake water without power.",
+          "tag": "Outdoor Purifiers",
+          "image": "/assets/img/a95r.webp",
+          "alt": "KB-A95R 100G Outdoor RO Water Purifier"
+        }
+      },
+      "zh": {
+        "title": "KB-A95R 100G户外便携RO净水器 | KomiBright",
+        "description": "KB-A95R户外便携反渗透净水器：无需用电，将自来水、河水、湖水净化至0.0001μm。为露营、房车与离网场景打造。",
+        "canonical": "https://komibright.com/zh/products/kb-a95r-outdoor-ro-water-purifier.html",
+        "ogTitle": "KB-A95R 100G户外便携RO净水器 | KomiBright",
+        "ogDescription": "KB-A95R户外便携反渗透净水器：无需用电，将自来水、河水、湖水净化至0.0001μm。为露营、房车与离网场景打造。",
+        "ogUrl": "https://komibright.com/zh/products/kb-a95r-outdoor-ro-water-purifier.html",
+        "ogImage": "https://komibright.com/assets/img/a95r.webp",
+        "sku": "KB-A95R",
+        "h1": "KB-A95R 100G 户外便携RO净水器",
+        "lead": "露营与房车生活的便携反渗透——自来水、河水、湖水都能净化，全程不用电。",
+        "galleryMain": "/assets/img/a95r.webp",
+        "galleryAlt": "KB-A95R 100G 户外便携RO净水器",
+        "thumbs": [
+          "/assets/img/a95r.webp",
+          "/assets/img/a95r-alt.webp",
+          "/assets/img/a95r-detail.webp"
+        ],
+        "checklist": [
+          "自来水、河水、湖水均可净化",
+          "便携式户外RO形态",
+          "前置PP棉应对浑浊源水",
+          "PP5食品级材料",
+          "超级复合滤芯，寿命更长",
+          "模块化水路设计",
+          "耗材一年一换"
+        ],
+        "spec": [
+          {
+            "k": "RO膜",
+            "v": "CN-1812-100G"
+          },
+          {
+            "k": "复合滤芯",
+            "v": "F-210（PP棉+碳纤维）"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "进水水源",
+            "v": "自来水、河水、湖水"
+          },
+          {
+            "k": "进水压力",
+            "v": "21–70 PSI（1.5–5 bar）"
+          },
+          {
+            "k": "进水温度",
+            "v": "5–35℃"
+          },
+          {
+            "k": "滤芯更换",
+            "v": "每12个月一次"
+          },
+          {
+            "k": "产品尺寸",
+            "v": "L25×W14×H38cm"
+          }
+        ],
+        "prose": [
+          "远离城市，每一处水源都是未知数。KB-A95R 用真正的反渗透给出答案：0.0001μm过滤精度，去除自来水、河水、湖水中的泥沙、微生物、细菌与病毒——全程零用电。",
+          "紧凑机身兼顾了户外过滤系统与真正的便携性。前置PP棉先处理较浑浊的源水，再交给复合滤芯与RO膜。无论深山露营还是房车旅行，喝上干净水不再是件麻烦事。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "RO膜、复合滤芯、前置PP棉、备件包",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20KB-A95R%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：KB-A95R",
+        "related": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "f210-f910-compound-filter-cartridge",
+          "ro-membrane-100g-1000g"
+        ],
+        "card": {
+          "title": "KB-A95R 100G 户外便携RO净水器",
+          "desc": "露营与房车生活的便携反渗透——自来水、河水、湖水都能净化，全程不用电。",
+          "tag": "户外净水器",
+          "image": "/assets/img/a95r.webp",
+          "alt": "KB-A95R 100G 户外便携RO净水器"
+        }
+      }
+    },
+    {
+      "slug": "stainless-steel-uf-system-washable-pvdf",
+      "image": "/assets/img/ssuf.webp",
+      "thumbs": [
+        "/assets/img/ssuf.webp",
+        "/assets/img/ssuf-alt.webp",
+        "/assets/img/ssuf-detail.webp"
+      ],
+      "related": [
+        "uf-hollow-fiber-membrane",
+        "kb-c100r-tankless-direct-flow-ro-system"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Stainless Steel UF",
+            "item": "https://komibright.com/stainless-steel-uf.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "UF 1000–20000 L/H"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "不锈钢超滤系统",
+            "item": "https://komibright.com/stainless-steel-uf.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "UF 1000–20000 L/H"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Stainless Steel UF System — Washable PVDF Membrane",
+        "sku": "UF 1000–20000 L/H",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "Stainless steel UF system with washable PVDF membrane: 0.01 μm filtration, zero waste water, 7 capacities from 1,000 to 20,000 L/H for whole house and business.",
+        "image": "https://komibright.com/assets/img/ssuf.webp",
+        "url": "https://komibright.com/products/stainless-steel-uf-system-washable-pvdf.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "不锈钢超滤系统（可洗PVDF膜）",
+        "sku": "UF 1000–20000 L/H",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "不锈钢超滤系统，可清洗PVDF膜：0.01μm过滤，零废水，卡箍端盖，1000至20000L/H七种流量，适用厨房、全屋与商用。",
+        "image": "https://komibright.com/assets/img/ssuf.webp",
+        "url": "https://komibright.com/zh/products/stainless-steel-uf-system-washable-pvdf.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "Stainless Steel UF System — Washable PVDF Membrane | KomiBright",
+        "description": "Stainless steel UF system with washable PVDF membrane: 0.01 μm filtration, zero waste water, 7 capacities from 1,000 to 20,000 L/H for whole house and business.",
+        "canonical": "https://komibright.com/products/stainless-steel-uf-system-washable-pvdf.html",
+        "ogTitle": "Stainless Steel UF System — Washable PVDF Membrane | KomiBright",
+        "ogDescription": "Stainless steel UF system with washable PVDF membrane: 0.01 μm filtration, zero waste water, 7 capacities from 1,000 to 20,000 L/H for whole house and business.",
+        "ogUrl": "https://komibright.com/products/stainless-steel-uf-system-washable-pvdf.html",
+        "ogImage": "https://komibright.com/assets/img/ssuf.webp",
+        "sku": "UF 1000–20000 L/H",
+        "h1": "Stainless Steel UF System — Washable PVDF Membrane",
+        "lead": "Whole-house and commercial ultrafiltration in 304 stainless steel — washable membrane, zero waste water, up to 20,000 L/H.",
+        "galleryMain": "/assets/img/ssuf.webp",
+        "galleryAlt": "Stainless Steel UF System — Washable PVDF Membrane",
+        "thumbs": [
+          "/assets/img/ssuf.webp",
+          "/assets/img/ssuf-alt.webp",
+          "/assets/img/ssuf-detail.webp"
+        ],
+        "checklist": [
+          "Washable PVDF membrane — wash it, reuse it",
+          "304 stainless steel shell, clamp end covers",
+          "0.01 μm ultrafiltration, zero waste water",
+          "External-pressure filtration method",
+          "Detachable water pipe for easy maintenance",
+          "Horizontal or wall-mounted installation",
+          "7 capacities: 1,000 / 2,000 / 3,500 / 6,000 / 10,000 / 15,000 / 20,000 L/H"
+        ],
+        "spec": [
+          {
+            "k": "Membrane Material",
+            "v": "PVDF (washable)"
+          },
+          {
+            "k": "Shell Material",
+            "v": "304 stainless steel"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.01 μm"
+          },
+          {
+            "k": "Filtration Method",
+            "v": "External pressure"
+          },
+          {
+            "k": "Waste Water",
+            "v": "None"
+          },
+          {
+            "k": "Water Source",
+            "v": "Tap water / well water"
+          },
+          {
+            "k": "Inlet Pressure",
+            "v": "0.1–0.4 MPa"
+          },
+          {
+            "k": "Water Temperature",
+            "v": "4–45 °C"
+          },
+          {
+            "k": "End Cover Fixing",
+            "v": "Clamp"
+          },
+          {
+            "k": "Installation",
+            "v": "Horizontal / wall-mounted, end inlet"
+          },
+          {
+            "k": "Application",
+            "v": "Kitchen / whole house / business"
+          }
+        ],
+        "prose": [
+          "For whole-house and commercial water treatment, the KomiBright stainless steel UF range pairs a washable PVDF ultrafiltration membrane with a 304 stainless steel shell. The membrane's 0.01 μm pores strip out fine particles, bacteria and viruses — and unlike disposable cartridges, it can be washed and returned to service.",
+          "The external-pressure design produces no waste water, the clamp end covers open without special tools, and the detachable water pipe simplifies maintenance. Seven capacities from 1,000 to 20,000 litres per hour cover everything from a kitchen to a whole building."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "UF housing with washable PVDF membrane; capacity configured per order",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20UF%201000%E2%80%9320000%20L/H.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20UF%201000–20000%20L/H",
+        "related": [
+          "uf-hollow-fiber-membrane",
+          "kb-c100r-tankless-direct-flow-ro-system"
+        ],
+        "card": {
+          "title": "Stainless Steel UF System — Washable PVDF Membrane",
+          "desc": "Whole-house and commercial ultrafiltration in 304 stainless steel — washable membrane, zero waste water, up to 20,000 L/H.",
+          "tag": "Stainless Steel UF",
+          "image": "/assets/img/ssuf.webp",
+          "alt": "Stainless Steel UF System — Washable PVDF Membrane"
+        }
+      },
+      "zh": {
+        "title": "不锈钢超滤系统 可洗PVDF膜（1000–20000L/H）| KomiBright",
+        "description": "不锈钢超滤系统，可清洗PVDF膜：0.01μm过滤，零废水，卡箍端盖，1000至20000L/H七种流量，适用厨房、全屋与商用。",
+        "canonical": "https://komibright.com/zh/products/stainless-steel-uf-system-washable-pvdf.html",
+        "ogTitle": "不锈钢超滤系统 可洗PVDF膜（1000–20000L/H）| KomiBright",
+        "ogDescription": "不锈钢超滤系统，可清洗PVDF膜：0.01μm过滤，零废水，卡箍端盖，1000至20000L/H七种流量，适用厨房、全屋与商用。",
+        "ogUrl": "https://komibright.com/zh/products/stainless-steel-uf-system-washable-pvdf.html",
+        "ogImage": "https://komibright.com/assets/img/ssuf.webp",
+        "sku": "UF 1000–20000 L/H",
+        "h1": "不锈钢超滤系统（可洗PVDF膜）",
+        "lead": "304不锈钢全屋/商用超滤——膜可反复清洗，零废水，流量最高20000L/H。",
+        "galleryMain": "/assets/img/ssuf.webp",
+        "galleryAlt": "不锈钢超滤系统（可洗PVDF膜）",
+        "thumbs": [
+          "/assets/img/ssuf.webp",
+          "/assets/img/ssuf-alt.webp",
+          "/assets/img/ssuf-detail.webp"
+        ],
+        "checklist": [
+          "可洗PVDF膜——洗净即可复用",
+          "304不锈钢外壳，卡箍端盖",
+          "0.01μm超滤精度，零废水",
+          "外压式过滤方式",
+          "可拆卸水管，维护省心",
+          "支持卧式或壁挂安装",
+          "七档流量：1000/2000/3500/6000/10000/15000/20000 L/H"
+        ],
+        "spec": [
+          {
+            "k": "膜材质",
+            "v": "PVDF（可清洗）"
+          },
+          {
+            "k": "外壳材质",
+            "v": "304不锈钢"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.01 μm"
+          },
+          {
+            "k": "过滤方式",
+            "v": "外压式"
+          },
+          {
+            "k": "废水",
+            "v": "无"
+          },
+          {
+            "k": "进水水源",
+            "v": "自来水/井水"
+          },
+          {
+            "k": "进水压力",
+            "v": "0.1–0.4 MPa"
+          },
+          {
+            "k": "进水温度",
+            "v": "4–45℃"
+          },
+          {
+            "k": "端盖固定",
+            "v": "卡箍"
+          },
+          {
+            "k": "安装方式",
+            "v": "卧式/壁挂，端进水"
+          },
+          {
+            "k": "适用场景",
+            "v": "厨房/全屋/商用"
+          }
+        ],
+        "prose": [
+          "面向全屋与商用水处理，KomiBright 不锈钢超滤系列将可清洗的PVDF超滤膜与304不锈钢外壳结合。0.01μm膜孔滤除细微颗粒、细菌与病毒——而且不同于一次性滤芯，这支膜洗一洗就能继续用。",
+          "外压式设计不产生废水，卡箍端盖无需专用工具即可打开，可拆卸水管让维护更省事。从1000到20000升/小时共七档流量，从一个厨房到一整栋楼都能覆盖。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "含可洗PVDF膜的超滤主机；流量按订单配置",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20UF%201000%E2%80%9320000%20L/H%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：UF%201000–20000%20L/H",
+        "related": [
+          "uf-hollow-fiber-membrane",
+          "kb-c100r-tankless-direct-flow-ro-system"
+        ],
+        "card": {
+          "title": "不锈钢超滤系统（可洗PVDF膜）",
+          "desc": "304不锈钢全屋/商用超滤——膜可反复清洗，零废水，流量最高20000L/H。",
+          "tag": "不锈钢超滤系统",
+          "image": "/assets/img/ssuf.webp",
+          "alt": "不锈钢超滤系统（可洗PVDF膜）"
+        }
+      }
+    },
+    {
+      "slug": "ro-membrane-100g-1000g",
+      "image": "/assets/img/ro-membrane.webp",
+      "thumbs": [
+        "/assets/img/ro-membrane.webp",
+        "/assets/img/ro-membrane-alt.webp"
+      ],
+      "related": [
+        "f210-f910-compound-filter-cartridge",
+        "kb-c25r-electricity-free-reverse-osmosis-system",
+        "kb-c100r-tankless-direct-flow-ro-system"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Filters & Accessories",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "CN-1812-100G / CN-3812-1000G"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "滤芯与配件",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "CN-1812-100G / CN-3812-1000G"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Reverse Osmosis Membrane 100G / 1000G",
+        "sku": "CN-1812-100G / CN-3812-1000G",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "Genuine Canature RO membranes for KomiBright systems: CN-1812-100G for C25R-series and CN-3812-1000G for C100R direct-flow systems. Replace once a year.",
+        "image": "https://komibright.com/assets/img/ro-membrane.webp",
+        "url": "https://komibright.com/products/ro-membrane-100g-1000g.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "RO反渗透膜 100G/1000G",
+        "sku": "CN-1812-100G / CN-3812-1000G",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KomiBright系统原厂开能RO膜：CN-1812-100G适用C25R系列，CN-3812-1000G适用C100R直饮机型。一年更换一次。",
+        "image": "https://komibright.com/assets/img/ro-membrane.webp",
+        "url": "https://komibright.com/zh/products/ro-membrane-100g-1000g.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "RO Membrane 100G / 1000G Replacement (CN-1812 / CN-3812) | KomiBright",
+        "description": "Genuine Canature RO membranes for KomiBright systems: CN-1812-100G for C25R-series and CN-3812-1000G for C100R direct-flow systems. Replace once a year.",
+        "canonical": "https://komibright.com/products/ro-membrane-100g-1000g.html",
+        "ogTitle": "RO Membrane 100G / 1000G Replacement (CN-1812 / CN-3812) | KomiBright",
+        "ogDescription": "Genuine Canature RO membranes for KomiBright systems: CN-1812-100G for C25R-series and CN-3812-1000G for C100R direct-flow systems. Replace once a year.",
+        "ogUrl": "https://komibright.com/products/ro-membrane-100g-1000g.html",
+        "ogImage": "https://komibright.com/assets/img/ro-membrane.webp",
+        "sku": "CN-1812-100G / CN-3812-1000G",
+        "h1": "Reverse Osmosis Membrane 100G / 1000G",
+        "lead": "Genuine replacement membranes for KomiBright RO systems — 100G and 1000G Canature membranes.",
+        "galleryMain": "/assets/img/ro-membrane.webp",
+        "galleryAlt": "Reverse Osmosis Membrane 100G / 1000G",
+        "thumbs": [
+          "/assets/img/ro-membrane.webp",
+          "/assets/img/ro-membrane-alt.webp"
+        ],
+        "checklist": [
+          "CN-1812-100G — fits KB-C25R / C25RH / C25RP / A95R",
+          "CN-3812-1000G — fits KB-C100R direct flow",
+          "Genuine Canature RO membrane",
+          "0.0001 μm filtration precision",
+          "Tool-free yearly replacement"
+        ],
+        "spec": [
+          {
+            "k": "Models",
+            "v": "CN-1812-100G / CN-3812-1000G"
+          },
+          {
+            "k": "Type",
+            "v": "Canature RO membrane"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "Replacement",
+            "v": "Every 12 months"
+          }
+        ],
+        "prose": [
+          "The membrane is the heart of any RO system. KomiBright systems use Canature membranes: the CN-1812-100G for C25R-series machines and the high-flow CN-3812-1000G for the C100R direct-flow system.",
+          "Thanks to the automatic flushing design of KomiBright housings, membranes reach their full service life — replace once a year along with the compound filter, no tools required."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "Single membrane, model per order",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20CN-1812-100G%20/%20CN-3812-1000G.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20CN-1812-100G%20/%20CN-3812-1000G",
+        "related": [
+          "f210-f910-compound-filter-cartridge",
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c100r-tankless-direct-flow-ro-system"
+        ],
+        "card": {
+          "title": "Reverse Osmosis Membrane 100G / 1000G",
+          "desc": "Genuine replacement membranes for KomiBright RO systems — 100G and 1000G Canature membranes.",
+          "tag": "Filters & Accessories",
+          "image": "/assets/img/ro-membrane.webp",
+          "alt": "Reverse Osmosis Membrane 100G / 1000G"
+        }
+      },
+      "zh": {
+        "title": "RO膜替换装 100G/1000G（CN-1812/CN-3812）| KomiBright",
+        "description": "KomiBright系统原厂开能RO膜：CN-1812-100G适用C25R系列，CN-3812-1000G适用C100R直饮机型。一年更换一次。",
+        "canonical": "https://komibright.com/zh/products/ro-membrane-100g-1000g.html",
+        "ogTitle": "RO膜替换装 100G/1000G（CN-1812/CN-3812）| KomiBright",
+        "ogDescription": "KomiBright系统原厂开能RO膜：CN-1812-100G适用C25R系列，CN-3812-1000G适用C100R直饮机型。一年更换一次。",
+        "ogUrl": "https://komibright.com/zh/products/ro-membrane-100g-1000g.html",
+        "ogImage": "https://komibright.com/assets/img/ro-membrane.webp",
+        "sku": "CN-1812-100G / CN-3812-1000G",
+        "h1": "RO反渗透膜 100G/1000G",
+        "lead": "KomiBright RO系统原厂替换膜——100G与1000G开能膜。",
+        "galleryMain": "/assets/img/ro-membrane.webp",
+        "galleryAlt": "RO反渗透膜 100G/1000G",
+        "thumbs": [
+          "/assets/img/ro-membrane.webp",
+          "/assets/img/ro-membrane-alt.webp"
+        ],
+        "checklist": [
+          "CN-1812-100G——适配KB-C25R/C25RH/C25RP/A95R",
+          "CN-3812-1000G——适配KB-C100R直饮机",
+          "原厂开能RO膜",
+          "0.0001μm过滤精度",
+          "一年一换，无需工具"
+        ],
+        "spec": [
+          {
+            "k": "型号",
+            "v": "CN-1812-100G / CN-3812-1000G"
+          },
+          {
+            "k": "类型",
+            "v": "开能RO膜"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.0001 μm"
+          },
+          {
+            "k": "更换周期",
+            "v": "每12个月一次"
+          }
+        ],
+        "prose": [
+          "RO膜是整台净水器的心脏。KomiBright 系统采用开能（Canature）膜：C25R系列使用CN-1812-100G，C100R直饮机型使用大通量CN-3812-1000G。",
+          "得益于KomiBright壳体的自动冲洗设计，RO膜能充分发挥全部寿命——每年与复合滤芯一同更换即可，无需任何工具。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "单支膜，型号按订单",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20CN-1812-100G%20/%20CN-3812-1000G%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：CN-1812-100G%20/%20CN-3812-1000G",
+        "related": [
+          "f210-f910-compound-filter-cartridge",
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c100r-tankless-direct-flow-ro-system"
+        ],
+        "card": {
+          "title": "RO反渗透膜 100G/1000G",
+          "desc": "KomiBright RO系统原厂替换膜——100G与1000G开能膜。",
+          "tag": "滤芯与配件",
+          "image": "/assets/img/ro-membrane.webp",
+          "alt": "RO反渗透膜 100G/1000G"
+        }
+      }
+    },
+    {
+      "slug": "f210-f910-compound-filter-cartridge",
+      "image": "/assets/img/combo-filter.webp",
+      "thumbs": [
+        "/assets/img/combo-filter.webp",
+        "/assets/img/combo-filter-alt.webp"
+      ],
+      "related": [
+        "ro-membrane-100g-1000g",
+        "kb-c25r-electricity-free-reverse-osmosis-system",
+        "kb-c100r-tankless-direct-flow-ro-system"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Filters & Accessories",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "F-210 / F-910"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "滤芯与配件",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "F-210 / F-910"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Super Compound Filter Cartridge F-210 / F-910",
+        "sku": "F-210 / F-910",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "F-210 and F-910 super compound filter cartridges combine pleated PP and precision activated carbon in one housing — the single yearly pre-filter for KomiBright RO systems.",
+        "image": "https://komibright.com/assets/img/combo-filter.webp",
+        "url": "https://komibright.com/products/f210-f910-compound-filter-cartridge.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "F-210/F-910 超级复合滤芯",
+        "sku": "F-210 / F-910",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "F-210与F-910超级复合滤芯，折叠PP棉与精密活性炭合二为一——KomiBright RO系统一年一换的唯一前置滤芯。",
+        "image": "https://komibright.com/assets/img/combo-filter.webp",
+        "url": "https://komibright.com/zh/products/f210-f910-compound-filter-cartridge.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "Super Compound Filter Cartridge F-210 / F-910 | KomiBright",
+        "description": "F-210 and F-910 super compound filter cartridges combine pleated PP and precision activated carbon in one housing — the single yearly pre-filter for KomiBright RO systems.",
+        "canonical": "https://komibright.com/products/f210-f910-compound-filter-cartridge.html",
+        "ogTitle": "Super Compound Filter Cartridge F-210 / F-910 | KomiBright",
+        "ogDescription": "F-210 and F-910 super compound filter cartridges combine pleated PP and precision activated carbon in one housing — the single yearly pre-filter for KomiBright RO systems.",
+        "ogUrl": "https://komibright.com/products/f210-f910-compound-filter-cartridge.html",
+        "ogImage": "https://komibright.com/assets/img/combo-filter.webp",
+        "sku": "F-210 / F-910",
+        "h1": "Super Compound Filter Cartridge F-210 / F-910",
+        "lead": "One cartridge that replaces the usual three pre-filters — pleated PP plus precision activated carbon.",
+        "galleryMain": "/assets/img/combo-filter.webp",
+        "galleryAlt": "Super Compound Filter Cartridge F-210 / F-910",
+        "thumbs": [
+          "/assets/img/combo-filter.webp",
+          "/assets/img/combo-filter-alt.webp"
+        ],
+        "checklist": [
+          "Pleated PP + precision activated carbon in one",
+          "Replaces multiple conventional pre-filters",
+          "Removes sediment, rust, chlorine and odour",
+          "F-210 for C25R series, F-910 for C100R",
+          "Yearly replacement, no tools"
+        ],
+        "spec": [
+          {
+            "k": "Models",
+            "v": "F-210 / F-910"
+          },
+          {
+            "k": "Structure",
+            "v": "Pleated PP + carbon block"
+          },
+          {
+            "k": "Function",
+            "v": "Sediment, chlorine, odour, VOC removal"
+          },
+          {
+            "k": "Replacement",
+            "v": "Every 12 months"
+          }
+        ],
+        "prose": [
+          "Conventional RO machines stack two or three separate pre-filter cartridges. KomiBright's super compound filter does the same work in one: a pleated PP layer captures particles and sediment, and a precision activated carbon block removes residual chlorine, odour and volatile organics.",
+          "The F-210 serves C25R-series systems; the larger F-910 serves the C100R direct-flow platform. Both are replaced once a year together with the membrane."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "Single cartridge, model per order",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20F-210%20/%20F-910.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20F-210%20/%20F-910",
+        "related": [
+          "ro-membrane-100g-1000g",
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c100r-tankless-direct-flow-ro-system"
+        ],
+        "card": {
+          "title": "Super Compound Filter Cartridge F-210 / F-910",
+          "desc": "One cartridge that replaces the usual three pre-filters — pleated PP plus precision activated carbon.",
+          "tag": "Filters & Accessories",
+          "image": "/assets/img/combo-filter.webp",
+          "alt": "Super Compound Filter Cartridge F-210 / F-910"
+        }
+      },
+      "zh": {
+        "title": "F-210/F-910超级复合滤芯 | KomiBright",
+        "description": "F-210与F-910超级复合滤芯，折叠PP棉与精密活性炭合二为一——KomiBright RO系统一年一换的唯一前置滤芯。",
+        "canonical": "https://komibright.com/zh/products/f210-f910-compound-filter-cartridge.html",
+        "ogTitle": "F-210/F-910超级复合滤芯 | KomiBright",
+        "ogDescription": "F-210与F-910超级复合滤芯，折叠PP棉与精密活性炭合二为一——KomiBright RO系统一年一换的唯一前置滤芯。",
+        "ogUrl": "https://komibright.com/zh/products/f210-f910-compound-filter-cartridge.html",
+        "ogImage": "https://komibright.com/assets/img/combo-filter.webp",
+        "sku": "F-210 / F-910",
+        "h1": "F-210/F-910 超级复合滤芯",
+        "lead": "一支滤芯顶三支前置——折叠PP棉+精密活性炭。",
+        "galleryMain": "/assets/img/combo-filter.webp",
+        "galleryAlt": "F-210/F-910 超级复合滤芯",
+        "thumbs": [
+          "/assets/img/combo-filter.webp",
+          "/assets/img/combo-filter-alt.webp"
+        ],
+        "checklist": [
+          "折叠PP棉+精密活性炭合二为一",
+          "替代多支传统前置滤芯",
+          "去除泥沙、铁锈、余氯与异味",
+          "F-210适配C25R系列，F-910适配C100R",
+          "一年一换，无需工具"
+        ],
+        "spec": [
+          {
+            "k": "型号",
+            "v": "F-210 / F-910"
+          },
+          {
+            "k": "结构",
+            "v": "折叠PP棉+碳纤维"
+          },
+          {
+            "k": "功能",
+            "v": "去除泥沙、余氯、异味与VOC"
+          },
+          {
+            "k": "更换周期",
+            "v": "每12个月一次"
+          }
+        ],
+        "prose": [
+          "传统RO机要叠两三支前置滤芯，KomiBright 的超级复合滤芯一支搞定：折叠PP棉层拦截颗粒与泥沙，精密活性炭层去除余氯、异味与挥发性有机物。",
+          "F-210适配C25R系列，更大的F-910适配C100R直饮平台。两者都与RO膜同步，一年更换一次。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "单支滤芯，型号按订单",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20F-210%20/%20F-910%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：F-210%20/%20F-910",
+        "related": [
+          "ro-membrane-100g-1000g",
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c100r-tankless-direct-flow-ro-system"
+        ],
+        "card": {
+          "title": "F-210/F-910 超级复合滤芯",
+          "desc": "一支滤芯顶三支前置——折叠PP棉+精密活性炭。",
+          "tag": "滤芯与配件",
+          "image": "/assets/img/combo-filter.webp",
+          "alt": "F-210/F-910 超级复合滤芯"
+        }
+      }
+    },
+    {
+      "slug": "post-carbon-filter-st33-kb33",
+      "image": "/assets/img/post-carbon.webp",
+      "thumbs": [
+        "/assets/img/post-carbon.webp",
+        "/assets/img/post-carbon-alt.webp"
+      ],
+      "related": [
+        "kb-c25rp-under-sink-ro-system-post-carbon",
+        "f210-f910-compound-filter-cartridge"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Filters & Accessories",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ST33 / KB33"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "滤芯与配件",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ST33 / KB33"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Post Carbon Filter ST33 / KB33 (Nano-Silver Composite)",
+        "sku": "ST33 / KB33",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "ST33 and KB33 nano-silver composite post carbon filters: antibacterial protection, enriched hydrogen, regulated and moisturized taste for RO drinking water.",
+        "image": "https://komibright.com/assets/img/post-carbon.webp",
+        "url": "https://komibright.com/products/post-carbon-filter-st33-kb33.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "ST33/KB33 后置炭滤芯（纳米银复合）",
+        "sku": "ST33 / KB33",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "ST33与KB33纳米银复合后置炭滤芯：出水端持续抗菌防护、富氢调节口感，让RO直饮水更清甜圆润，KB-C25RP标配，其他机型可选配升级。",
+        "image": "https://komibright.com/assets/img/post-carbon.webp",
+        "url": "https://komibright.com/zh/products/post-carbon-filter-st33-kb33.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "Post Carbon Filter ST33 / KB33 Nano-Silver Composite | KomiBright",
+        "description": "ST33 and KB33 nano-silver composite post carbon filters: antibacterial protection, enriched hydrogen, regulated and moisturized taste for RO drinking water.",
+        "canonical": "https://komibright.com/products/post-carbon-filter-st33-kb33.html",
+        "ogTitle": "Post Carbon Filter ST33 / KB33 Nano-Silver Composite | KomiBright",
+        "ogDescription": "ST33 and KB33 nano-silver composite post carbon filters: antibacterial protection, enriched hydrogen, regulated and moisturized taste for RO drinking water.",
+        "ogUrl": "https://komibright.com/products/post-carbon-filter-st33-kb33.html",
+        "ogImage": "https://komibright.com/assets/img/post-carbon.webp",
+        "sku": "ST33 / KB33",
+        "h1": "Post Carbon Filter ST33 / KB33 (Nano-Silver Composite)",
+        "lead": "Nano-silver composite post filter that polishes taste and keeps the last metre antibacterial.",
+        "galleryMain": "/assets/img/post-carbon.webp",
+        "galleryAlt": "Post Carbon Filter ST33 / KB33 (Nano-Silver Composite)",
+        "thumbs": [
+          "/assets/img/post-carbon.webp",
+          "/assets/img/post-carbon-alt.webp"
+        ],
+        "checklist": [
+          "Nano-silver composite antibacterial structure",
+          "Enriched hydrogen",
+          "Regulated, moisturized taste",
+          "Standard on KB-C25RP",
+          "Yearly replacement"
+        ],
+        "spec": [
+          {
+            "k": "Models",
+            "v": "ST33 / KB33"
+          },
+          {
+            "k": "Type",
+            "v": "Nano-silver composite post carbon"
+          },
+          {
+            "k": "Function",
+            "v": "Antibacterial, taste polishing"
+          },
+          {
+            "k": "Replacement",
+            "v": "Every 12 months"
+          }
+        ],
+        "prose": [
+          "The final polish before the glass. ST33 and KB33 post carbon filters use a nano-silver composite structure to keep the outlet side antibacterial while refining the water's taste — regulated, moisturized, subtly sweet.",
+          "Fitted as standard on the KB-C25RP and available as an upgrade for other KomiBright systems."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "Single filter, model per order",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20ST33%20/%20KB33.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20ST33%20/%20KB33",
+        "related": [
+          "kb-c25rp-under-sink-ro-system-post-carbon",
+          "f210-f910-compound-filter-cartridge"
+        ],
+        "card": {
+          "title": "Post Carbon Filter ST33 / KB33 (Nano-Silver Composite)",
+          "desc": "Nano-silver composite post filter that polishes taste and keeps the last metre antibacterial.",
+          "tag": "Filters & Accessories",
+          "image": "/assets/img/post-carbon.webp",
+          "alt": "Post Carbon Filter ST33 / KB33 (Nano-Silver Composite)"
+        }
+      },
+      "zh": {
+        "title": "ST33/KB33纳米银复合后置炭滤芯 | KomiBright",
+        "description": "ST33与KB33纳米银复合后置炭滤芯：出水端持续抗菌防护、富氢调节口感，让RO直饮水更清甜圆润，KB-C25RP标配，其他机型可选配升级。",
+        "canonical": "https://komibright.com/zh/products/post-carbon-filter-st33-kb33.html",
+        "ogTitle": "ST33/KB33纳米银复合后置炭滤芯 | KomiBright",
+        "ogDescription": "ST33与KB33纳米银复合后置炭滤芯：出水端持续抗菌防护、富氢调节口感，让RO直饮水更清甜圆润，KB-C25RP标配，其他机型可选配升级。",
+        "ogUrl": "https://komibright.com/zh/products/post-carbon-filter-st33-kb33.html",
+        "ogImage": "https://komibright.com/assets/img/post-carbon.webp",
+        "sku": "ST33 / KB33",
+        "h1": "ST33/KB33 后置炭滤芯（纳米银复合）",
+        "lead": "纳米银复合后置滤芯，改善口感，守住入口前的最后一米。",
+        "galleryMain": "/assets/img/post-carbon.webp",
+        "galleryAlt": "ST33/KB33 后置炭滤芯（纳米银复合）",
+        "thumbs": [
+          "/assets/img/post-carbon.webp",
+          "/assets/img/post-carbon-alt.webp"
+        ],
+        "checklist": [
+          "纳米银复合抗菌结构",
+          "富氢",
+          "调节口感，圆润清甜",
+          "KB-C25RP标配",
+          "一年一换"
+        ],
+        "spec": [
+          {
+            "k": "型号",
+            "v": "ST33 / KB33"
+          },
+          {
+            "k": "类型",
+            "v": "纳米银复合后置炭"
+          },
+          {
+            "k": "功能",
+            "v": "抗菌、改善口感"
+          },
+          {
+            "k": "更换周期",
+            "v": "每12个月一次"
+          }
+        ],
+        "prose": [
+          "入杯前的最后一道抛光。ST33与KB33后置炭滤芯采用纳米银复合结构，在出水端持续抗菌，同时细调口感——圆润、清甜、更好入口。",
+          "KB-C25RP标配此滤芯，其他KomiBright机型也可选配升级。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "单支滤芯，型号按订单",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20ST33%20/%20KB33%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：ST33%20/%20KB33",
+        "related": [
+          "kb-c25rp-under-sink-ro-system-post-carbon",
+          "f210-f910-compound-filter-cartridge"
+        ],
+        "card": {
+          "title": "ST33/KB33 后置炭滤芯（纳米银复合）",
+          "desc": "纳米银复合后置滤芯，改善口感，守住入口前的最后一米。",
+          "tag": "滤芯与配件",
+          "image": "/assets/img/post-carbon.webp",
+          "alt": "ST33/KB33 后置炭滤芯（纳米银复合）"
+        }
+      }
+    },
+    {
+      "slug": "pressurized-water-tank-3-2g",
+      "image": "/assets/img/tank.webp",
+      "thumbs": [
+        "/assets/img/tank.webp",
+        "/assets/img/tank-alt.webp"
+      ],
+      "related": [
+        "kb-c25r-electricity-free-reverse-osmosis-system",
+        "kb-c25rp-under-sink-ro-system-post-carbon"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Filters & Accessories",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "3.2G Tank"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "滤芯与配件",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "3.2G Tank"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Pressurized Metal Tank — 3.2G",
+        "sku": "3.2G Tank",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "3.2-gallon pressurized metal storage tank with antibacterial lining for reverse osmosis systems — steady flow at the faucet without a pump.",
+        "image": "https://komibright.com/assets/img/tank.webp",
+        "url": "https://komibright.com/products/pressurized-water-tank-3-2g.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "3.2G 压力储水桶",
+        "sku": "3.2G Tank",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KomiBright 3.2加仑金属压力储水桶：内胆抗菌保鲜，承压储存纯水，让免泵反渗透系统随开随有、出水稳定，适配KB-C25R等带桶机型。",
+        "image": "https://komibright.com/assets/img/tank.webp",
+        "url": "https://komibright.com/zh/products/pressurized-water-tank-3-2g.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "Pressurized Metal Water Tank 3.2G for RO Systems | KomiBright",
+        "description": "3.2-gallon pressurized metal storage tank with antibacterial lining for reverse osmosis systems — steady flow at the faucet without a pump.",
+        "canonical": "https://komibright.com/products/pressurized-water-tank-3-2g.html",
+        "ogTitle": "Pressurized Metal Water Tank 3.2G for RO Systems | KomiBright",
+        "ogDescription": "3.2-gallon pressurized metal storage tank with antibacterial lining for reverse osmosis systems — steady flow at the faucet without a pump.",
+        "ogUrl": "https://komibright.com/products/pressurized-water-tank-3-2g.html",
+        "ogImage": "https://komibright.com/assets/img/tank.webp",
+        "sku": "3.2G Tank",
+        "h1": "Pressurized Metal Tank — 3.2G",
+        "lead": "Antibacterial 3.2-gallon pressurized metal storage tank for RO systems.",
+        "galleryMain": "/assets/img/tank.webp",
+        "galleryAlt": "Pressurized Metal Tank — 3.2G",
+        "thumbs": [
+          "/assets/img/tank.webp",
+          "/assets/img/tank-alt.webp"
+        ],
+        "checklist": [
+          "3.2-gallon (12 L) capacity",
+          "Pressurized metal construction",
+          "Antibacterial tank lining",
+          "Fits KomiBright tank-type RO systems"
+        ],
+        "spec": [
+          {
+            "k": "Capacity",
+            "v": "3.2 gallons"
+          },
+          {
+            "k": "Construction",
+            "v": "Pressurized metal, antibacterial lining"
+          },
+          {
+            "k": "Compatibility",
+            "v": "KB-C25R / C25RP and tank-type systems"
+          }
+        ],
+        "prose": [
+          "The pressurized tank is what lets a pumpless RO system pour a full glass instantly. This 3.2-gallon metal tank stores purified water under pressure, delivering steady flow at the faucet, with an antibacterial lining to keep stored water fresh."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "Tank with valve",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%203.2G%20Tank.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%203.2G%20Tank",
+        "related": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c25rp-under-sink-ro-system-post-carbon"
+        ],
+        "card": {
+          "title": "Pressurized Metal Tank — 3.2G",
+          "desc": "Antibacterial 3.2-gallon pressurized metal storage tank for RO systems.",
+          "tag": "Filters & Accessories",
+          "image": "/assets/img/tank.webp",
+          "alt": "Pressurized Metal Tank — 3.2G"
+        }
+      },
+      "zh": {
+        "title": "RO系统3.2G金属压力储水桶 | KomiBright",
+        "description": "KomiBright 3.2加仑金属压力储水桶：内胆抗菌保鲜，承压储存纯水，让免泵反渗透系统随开随有、出水稳定，适配KB-C25R等带桶机型。",
+        "canonical": "https://komibright.com/zh/products/pressurized-water-tank-3-2g.html",
+        "ogTitle": "RO系统3.2G金属压力储水桶 | KomiBright",
+        "ogDescription": "KomiBright 3.2加仑金属压力储水桶：内胆抗菌保鲜，承压储存纯水，让免泵反渗透系统随开随有、出水稳定，适配KB-C25R等带桶机型。",
+        "ogUrl": "https://komibright.com/zh/products/pressurized-water-tank-3-2g.html",
+        "ogImage": "https://komibright.com/assets/img/tank.webp",
+        "sku": "3.2G Tank",
+        "h1": "3.2G 压力储水桶",
+        "lead": "3.2加仑抗菌金属压力储水桶，RO系统标配。",
+        "galleryMain": "/assets/img/tank.webp",
+        "galleryAlt": "3.2G 压力储水桶",
+        "thumbs": [
+          "/assets/img/tank.webp",
+          "/assets/img/tank-alt.webp"
+        ],
+        "checklist": [
+          "3.2加仑（约12升）容量",
+          "金属承压结构",
+          "抗菌内胆",
+          "适配KomiBright带桶RO机型"
+        ],
+        "spec": [
+          {
+            "k": "容量",
+            "v": "3.2加仑"
+          },
+          {
+            "k": "结构",
+            "v": "金属承压，抗菌内胆"
+          },
+          {
+            "k": "适配机型",
+            "v": "KB-C25R/C25RP等带桶机型"
+          }
+        ],
+        "prose": [
+          "有了压力桶，免泵RO系统才能随开随有、一杯到位。这款3.2加仑金属压力桶以带压方式储存纯水，出水稳定，抗菌内胆让储水保持新鲜。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "含阀门储水桶",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%203.2G%20Tank%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：3.2G%20Tank",
+        "related": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c25rp-under-sink-ro-system-post-carbon"
+        ],
+        "card": {
+          "title": "3.2G 压力储水桶",
+          "desc": "3.2加仑抗菌金属压力储水桶，RO系统标配。",
+          "tag": "滤芯与配件",
+          "image": "/assets/img/tank.webp",
+          "alt": "3.2G 压力储水桶"
+        }
+      }
+    },
+    {
+      "slug": "smart-jar-zhh-a",
+      "image": "/assets/img/smartjar.webp",
+      "thumbs": [
+        "/assets/img/smartjar.webp",
+        "/assets/img/smartjar-alt.webp"
+      ],
+      "related": [
+        "kb-c25rh-countertop-ro-water-purifier-smart-jar"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Filters & Accessories",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ZHH-A / ZHH-H"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "滤芯与配件",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ZHH-A / ZHH-H"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Smart Jar (Water Jug) ZHH-A",
+        "sku": "ZHH-A / ZHH-H",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "ZHH-A and ZHH-H smart jars collect purified water from KomiBright desktop RO systems — the ready-to-pour companion for the KB-C25RH.",
+        "image": "https://komibright.com/assets/img/smartjar.webp",
+        "url": "https://komibright.com/products/smart-jar-zhh-a.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "ZHH-A 智能壶",
+        "sku": "ZHH-A / ZHH-H",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "ZHH-A与ZHH-H智能壶承接KomiBright台式RO净水器的纯水出水——KB-C25RH的随倒随喝搭档。",
+        "image": "https://komibright.com/assets/img/smartjar.webp",
+        "url": "https://komibright.com/zh/products/smart-jar-zhh-a.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "Smart Jar Water Jug ZHH-A / ZHH-H | KomiBright",
+        "description": "ZHH-A and ZHH-H smart jars collect purified water from KomiBright desktop RO systems — the ready-to-pour companion for the KB-C25RH.",
+        "canonical": "https://komibright.com/products/smart-jar-zhh-a.html",
+        "ogTitle": "Smart Jar Water Jug ZHH-A / ZHH-H | KomiBright",
+        "ogDescription": "ZHH-A and ZHH-H smart jars collect purified water from KomiBright desktop RO systems — the ready-to-pour companion for the KB-C25RH.",
+        "ogUrl": "https://komibright.com/products/smart-jar-zhh-a.html",
+        "ogImage": "https://komibright.com/assets/img/smartjar.webp",
+        "sku": "ZHH-A / ZHH-H",
+        "h1": "Smart Jar (Water Jug) ZHH-A",
+        "lead": "The companion jug for desktop RO systems — purified water, ready to pour.",
+        "galleryMain": "/assets/img/smartjar.webp",
+        "galleryAlt": "Smart Jar (Water Jug) ZHH-A",
+        "thumbs": [
+          "/assets/img/smartjar.webp",
+          "/assets/img/smartjar-alt.webp"
+        ],
+        "checklist": [
+          "Models ZHH-A and ZHH-H",
+          "Companion to KB-C25RH desktop RO",
+          "Ready-to-pour purified water"
+        ],
+        "spec": [
+          {
+            "k": "Models",
+            "v": "ZHH-A / ZHH-H"
+          },
+          {
+            "k": "Use",
+            "v": "Purified water jug for desktop RO"
+          }
+        ],
+        "prose": [
+          "Designed for the KB-C25RH desktop system, the smart jar collects purified water so it's always ready to pour — at the dining table, in the office, or beside the kettle."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "Smart jar",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20ZHH-A%20/%20ZHH-H.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20ZHH-A%20/%20ZHH-H",
+        "related": [
+          "kb-c25rh-countertop-ro-water-purifier-smart-jar"
+        ],
+        "card": {
+          "title": "Smart Jar (Water Jug) ZHH-A",
+          "desc": "The companion jug for desktop RO systems — purified water, ready to pour.",
+          "tag": "Filters & Accessories",
+          "image": "/assets/img/smartjar.webp",
+          "alt": "Smart Jar (Water Jug) ZHH-A"
+        }
+      },
+      "zh": {
+        "title": "ZHH-A/ZHH-H智能壶 | KomiBright",
+        "description": "ZHH-A与ZHH-H智能壶承接KomiBright台式RO净水器的纯水出水——KB-C25RH的随倒随喝搭档。",
+        "canonical": "https://komibright.com/zh/products/smart-jar-zhh-a.html",
+        "ogTitle": "ZHH-A/ZHH-H智能壶 | KomiBright",
+        "ogDescription": "ZHH-A与ZHH-H智能壶承接KomiBright台式RO净水器的纯水出水——KB-C25RH的随倒随喝搭档。",
+        "ogUrl": "https://komibright.com/zh/products/smart-jar-zhh-a.html",
+        "ogImage": "https://komibright.com/assets/img/smartjar.webp",
+        "sku": "ZHH-A / ZHH-H",
+        "h1": "ZHH-A 智能壶",
+        "lead": "台式RO净水器的黄金搭档——纯水入壶，随倒随喝。",
+        "galleryMain": "/assets/img/smartjar.webp",
+        "galleryAlt": "ZHH-A 智能壶",
+        "thumbs": [
+          "/assets/img/smartjar.webp",
+          "/assets/img/smartjar-alt.webp"
+        ],
+        "checklist": [
+          "ZHH-A与ZHH-H两个型号",
+          "KB-C25RH台式机官方搭档",
+          "纯水入壶，随倒随喝"
+        ],
+        "spec": [
+          {
+            "k": "型号",
+            "v": "ZHH-A / ZHH-H"
+          },
+          {
+            "k": "用途",
+            "v": "台式RO纯水壶"
+          }
+        ],
+        "prose": [
+          "智能壶专为KB-C25RH台式机设计，纯水直接入壶，随时可倒——餐桌上、办公室里、烧水壶旁都合适。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "智能壶",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20ZHH-A%20/%20ZHH-H%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：ZHH-A%20/%20ZHH-H",
+        "related": [
+          "kb-c25rh-countertop-ro-water-purifier-smart-jar"
+        ],
+        "card": {
+          "title": "ZHH-A 智能壶",
+          "desc": "台式RO净水器的黄金搭档——纯水入壶，随倒随喝。",
+          "tag": "滤芯与配件",
+          "image": "/assets/img/smartjar.webp",
+          "alt": "ZHH-A 智能壶"
+        }
+      }
+    },
+    {
+      "slug": "uf-hollow-fiber-membrane",
+      "image": "/assets/img/ufmembrane.webp",
+      "thumbs": [
+        "/assets/img/ufmembrane.webp",
+        "/assets/img/ufmembrane-alt.webp"
+      ],
+      "related": [
+        "stainless-steel-uf-system-washable-pvdf",
+        "f210-f910-compound-filter-cartridge"
+      ],
+      "breadcrumbEn": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Products",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Filters & Accessories",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "UF Membrane (KB-C20U)"
+          }
+        ]
+      },
+      "breadcrumbZh": {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://komibright.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "产品中心",
+            "item": "https://komibright.com/products.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "滤芯与配件",
+            "item": "https://komibright.com/accessories.html"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "UF Membrane (KB-C20U)"
+          }
+        ]
+      },
+      "productLdEn": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "UF Membrane — Hollow Fiber (for KB-C20U)",
+        "sku": "UF Membrane (KB-C20U)",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "Hollow fiber ultrafiltration membrane replacement for the KomiBright KB-C20U UF system — 0.01 μm filtration, yearly replacement.",
+        "image": "https://komibright.com/assets/img/ufmembrane.webp",
+        "url": "https://komibright.com/products/uf-hollow-fiber-membrane.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "productLdZh": {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "超滤膜（中空纤维，适配KB-C20U）",
+        "sku": "UF Membrane (KB-C20U)",
+        "brand": {
+          "@type": "Brand",
+          "name": "KomiBright"
+        },
+        "description": "KomiBright KB-C20U超滤机中空纤维膜替换装：0.01μm过滤精度，滤除细菌与细微颗粒同时保留矿物质，每年与复合滤芯一同更换即可。",
+        "image": "https://komibright.com/assets/img/ufmembrane.webp",
+        "url": "https://komibright.com/zh/products/uf-hollow-fiber-membrane.html",
+        "manufacturer": {
+          "@type": "Organization",
+          "name": "KomiBright"
+        }
+      },
+      "en": {
+        "title": "Hollow Fiber UF Membrane for KB-C20U | KomiBright",
+        "description": "Hollow fiber ultrafiltration membrane replacement for the KomiBright KB-C20U UF system — 0.01 μm filtration, yearly replacement.",
+        "canonical": "https://komibright.com/products/uf-hollow-fiber-membrane.html",
+        "ogTitle": "Hollow Fiber UF Membrane for KB-C20U | KomiBright",
+        "ogDescription": "Hollow fiber ultrafiltration membrane replacement for the KomiBright KB-C20U UF system — 0.01 μm filtration, yearly replacement.",
+        "ogUrl": "https://komibright.com/products/uf-hollow-fiber-membrane.html",
+        "ogImage": "https://komibright.com/assets/img/ufmembrane.webp",
+        "sku": "UF Membrane (KB-C20U)",
+        "h1": "UF Membrane — Hollow Fiber (for KB-C20U)",
+        "lead": "Hollow fiber ultrafiltration membrane, 0.01 μm — replacement for the KB-C20U UF system.",
+        "galleryMain": "/assets/img/ufmembrane.webp",
+        "galleryAlt": "UF Membrane — Hollow Fiber (for KB-C20U)",
+        "thumbs": [
+          "/assets/img/ufmembrane.webp",
+          "/assets/img/ufmembrane-alt.webp"
+        ],
+        "checklist": [
+          "Hollow fiber membrane, 0.01 μm",
+          "Fits KB-C20U UF system",
+          "Retains natural minerals",
+          "Yearly replacement"
+        ],
+        "spec": [
+          {
+            "k": "Type",
+            "v": "Hollow fiber UF membrane"
+          },
+          {
+            "k": "Filtration Precision",
+            "v": "0.01 μm"
+          },
+          {
+            "k": "Compatibility",
+            "v": "KB-C20U"
+          },
+          {
+            "k": "Replacement",
+            "v": "Every 12 months"
+          }
+        ],
+        "prose": [
+          "Replacement hollow fiber membrane for the KB-C20U ultrafiltration system. Its 0.01 μm fibers remove fine particles, bacteria and parasites while letting minerals pass — replace once a year together with the combo filter."
+        ],
+        "includedLabel": "In the box:",
+        "includedText": "Single membrane",
+        "waHref": "https://wa.me/886932137562?text=Hi%20KomiBright%2C%20I%27m%20interested%20in%20the%20UF%20Membrane%20%28KB-C20U%29.%20Could%20you%20send%20more%20details%3F",
+        "mailHref": "mailto:info@komibright.com?subject=Inquiry:%20UF%20Membrane%20(KB-C20U)",
+        "related": [
+          "stainless-steel-uf-system-washable-pvdf",
+          "f210-f910-compound-filter-cartridge"
+        ],
+        "card": {
+          "title": "UF Membrane — Hollow Fiber (for KB-C20U)",
+          "desc": "Hollow fiber ultrafiltration membrane, 0.01 μm — replacement for the KB-C20U UF system.",
+          "tag": "Filters & Accessories",
+          "image": "/assets/img/ufmembrane.webp",
+          "alt": "UF Membrane — Hollow Fiber (for KB-C20U)"
+        }
+      },
+      "zh": {
+        "title": "KB-C20U中空纤维超滤膜 | KomiBright",
+        "description": "KomiBright KB-C20U超滤机中空纤维膜替换装：0.01μm过滤精度，滤除细菌与细微颗粒同时保留矿物质，每年与复合滤芯一同更换即可。",
+        "canonical": "https://komibright.com/zh/products/uf-hollow-fiber-membrane.html",
+        "ogTitle": "KB-C20U中空纤维超滤膜 | KomiBright",
+        "ogDescription": "KomiBright KB-C20U超滤机中空纤维膜替换装：0.01μm过滤精度，滤除细菌与细微颗粒同时保留矿物质，每年与复合滤芯一同更换即可。",
+        "ogUrl": "https://komibright.com/zh/products/uf-hollow-fiber-membrane.html",
+        "ogImage": "https://komibright.com/assets/img/ufmembrane.webp",
+        "sku": "UF Membrane (KB-C20U)",
+        "h1": "超滤膜（中空纤维，适配KB-C20U）",
+        "lead": "中空纤维超滤膜，0.01μm——KB-C20U超滤机替换装。",
+        "galleryMain": "/assets/img/ufmembrane.webp",
+        "galleryAlt": "超滤膜（中空纤维，适配KB-C20U）",
+        "thumbs": [
+          "/assets/img/ufmembrane.webp",
+          "/assets/img/ufmembrane-alt.webp"
+        ],
+        "checklist": [
+          "中空纤维膜，0.01μm",
+          "适配KB-C20U超滤机",
+          "保留水中天然矿物质",
+          "一年一换"
+        ],
+        "spec": [
+          {
+            "k": "类型",
+            "v": "中空纤维超滤膜"
+          },
+          {
+            "k": "过滤精度",
+            "v": "0.01 μm"
+          },
+          {
+            "k": "适配机型",
+            "v": "KB-C20U"
+          },
+          {
+            "k": "更换周期",
+            "v": "每12个月一次"
+          }
+        ],
+        "prose": [
+          "KB-C20U超滤机的中空纤维膜替换装。0.01μm纤维滤除细微颗粒、细菌与寄生虫，同时保留矿物质——每年与复合滤芯一同更换。"
+        ],
+        "includedLabel": "标准配置:",
+        "includedText": "单支膜",
+        "waHref": "https://wa.me/886932137562?text=%E6%82%A8%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%20UF%20Membrane%20%28KB-C20U%29%EF%BC%8C%E6%96%B9%E4%BE%BF%E5%8F%91%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E8%B5%84%E6%96%99%E5%90%97%EF%BC%9F",
+        "mailHref": "mailto:info@komibright.com?subject=产品咨询：UF%20Membrane%20(KB-C20U)",
+        "related": [
+          "stainless-steel-uf-system-washable-pvdf",
+          "f210-f910-compound-filter-cartridge"
+        ],
+        "card": {
+          "title": "超滤膜（中空纤维，适配KB-C20U）",
+          "desc": "中空纤维超滤膜，0.01μm——KB-C20U超滤机替换装。",
+          "tag": "滤芯与配件",
+          "image": "/assets/img/ufmembrane.webp",
+          "alt": "超滤膜（中空纤维，适配KB-C20U）"
+        }
+      }
+    }
+  ],
+  "categories": {},
+  "listing": {
+    "products": {
+      "en": {
+        "title": "All Products — RO Systems, UF Systems, Filters | KomiBright",
+        "description": "Browse all KomiBright products: electricity-free RO systems, tankless direct-flow RO, outdoor purifiers, stainless steel UF systems and replacement filters.",
+        "canonical": "https://komibright.com/products.html",
+        "ogTitle": "All Products — RO Systems, UF Systems, Filters | KomiBright",
+        "ogDescription": "Browse all KomiBright products: electricity-free RO systems, tankless direct-flow RO, outdoor purifiers, stainless steel UF systems and replacement filters.",
+        "ogUrl": "https://komibright.com/products.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "eyebrow": "Catalogue",
+        "h1": "All Products",
+        "lead": "Thirteen products across five ranges — every one designed around pumpless, electricity-free filtration and one yearly filter change.",
+        "jsonld": [],
+        "slugs": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c25rh-countertop-ro-water-purifier-smart-jar",
+          "kb-c25rp-under-sink-ro-system-post-carbon",
+          "customized-housing-ro-water-purifier",
+          "kb-c100r-tankless-direct-flow-ro-system",
+          "kb-a95r-outdoor-ro-water-purifier",
+          "stainless-steel-uf-system-washable-pvdf",
+          "ro-membrane-100g-1000g",
+          "f210-f910-compound-filter-cartridge",
+          "post-carbon-filter-st33-kb33",
+          "pressurized-water-tank-3-2g",
+          "smart-jar-zhh-a",
+          "uf-hollow-fiber-membrane"
+        ],
+        "groups": [
+          {
+            "id": "ro",
+            "h2": "RO Systems",
+            "intro": "Our core range: reverse osmosis systems that run on tap-water pressure alone — no pump, no power socket, no noise. One compound filter and one membrane, replaced once a year.",
+            "slugs": [
+              "kb-c25r-electricity-free-reverse-osmosis-system",
+              "kb-c25rh-countertop-ro-water-purifier-smart-jar",
+              "kb-c25rp-under-sink-ro-system-post-carbon",
+              "customized-housing-ro-water-purifier"
+            ]
+          },
+          {
+            "id": "direct-flow",
+            "h2": "Direct Flow RO",
+            "intro": "Big flow, small footprint. Direct-flow systems skip the storage tank entirely — water is purified on demand through a 1000G membrane.",
+            "slugs": [
+              "kb-c100r-tankless-direct-flow-ro-system"
+            ]
+          },
+          {
+            "id": "outdoor",
+            "h2": "Outdoor Purifiers",
+            "intro": "Take RO-grade water anywhere. Built for campsites, RVs and anywhere the grid doesn't reach — the same 0.0001 μm filtration, in a carry-anywhere format.",
+            "slugs": [
+              "kb-a95r-outdoor-ro-water-purifier"
+            ]
+          },
+          {
+            "id": "ssuf",
+            "h2": "Stainless Steel UF",
+            "intro": "Industrial-grade filtration for the whole house or business: 304 stainless steel housings, washable PVDF membranes, and capacities from 1,000 to 20,000 litres per hour.",
+            "slugs": [
+              "stainless-steel-uf-system-washable-pvdf"
+            ]
+          },
+          {
+            "id": "accessories",
+            "h2": "Filters & Accessories",
+            "intro": "Every consumable your system needs — engineered to be replaced by anyone, once a year, without tools or a technician.",
+            "slugs": [
+              "ro-membrane-100g-1000g",
+              "f210-f910-compound-filter-cartridge",
+              "post-carbon-filter-st33-kb33",
+              "pressurized-water-tank-3-2g",
+              "smart-jar-zhh-a",
+              "uf-hollow-fiber-membrane"
+            ]
+          }
+        ]
+      },
+      "zh": {
+        "title": "全部产品 — RO净水器、超滤系统与滤芯 | KomiBright",
+        "description": "浏览KomiBright全部产品：免电RO净水器、无桶直饮RO、户外净水器、不锈钢超滤系统与替换滤芯。",
+        "canonical": "https://komibright.com/zh/products.html",
+        "ogTitle": "全部产品 — RO净水器、超滤系统与滤芯 | KomiBright",
+        "ogDescription": "浏览KomiBright全部产品：免电RO净水器、无桶直饮RO、户外净水器、不锈钢超滤系统与替换滤芯。",
+        "ogUrl": "https://komibright.com/zh/products.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "eyebrow": "产品目录",
+        "h1": "全部产品",
+        "lead": "五大系列共13款产品——每一款都围绕免泵免电过滤与一年一换滤芯设计。",
+        "jsonld": [],
+        "slugs": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c25rh-countertop-ro-water-purifier-smart-jar",
+          "kb-c25rp-under-sink-ro-system-post-carbon",
+          "customized-housing-ro-water-purifier",
+          "kb-c100r-tankless-direct-flow-ro-system",
+          "kb-a95r-outdoor-ro-water-purifier",
+          "stainless-steel-uf-system-washable-pvdf",
+          "ro-membrane-100g-1000g",
+          "f210-f910-compound-filter-cartridge",
+          "post-carbon-filter-st33-kb33",
+          "pressurized-water-tank-3-2g",
+          "smart-jar-zhh-a",
+          "uf-hollow-fiber-membrane"
+        ],
+        "groups": [
+          {
+            "id": "ro",
+            "h2": "RO反渗透净水器",
+            "intro": "这是我们的核心产品线：只靠自来水压力工作的反渗透净水器——不用泵、不插电、零噪音。一支复合滤芯加一支RO膜，一年只需更换一次。",
+            "slugs": [
+              "kb-c25r-electricity-free-reverse-osmosis-system",
+              "kb-c25rh-countertop-ro-water-purifier-smart-jar",
+              "kb-c25rp-under-sink-ro-system-post-carbon",
+              "customized-housing-ro-water-purifier"
+            ]
+          },
+          {
+            "id": "direct-flow",
+            "h2": "无桶大流量RO",
+            "intro": "大流量、小体积。直饮机型完全省去储水桶，1000G大通量RO膜即滤即饮，新鲜看得见。",
+            "slugs": [
+              "kb-c100r-tankless-direct-flow-ro-system"
+            ]
+          },
+          {
+            "id": "outdoor",
+            "h2": "户外净水器",
+            "intro": "把RO级好水带到任何地方。为露营地、房车和电网到不了的地方而生——同样的0.0001μm过滤精度，随身携带。",
+            "slugs": [
+              "kb-a95r-outdoor-ro-water-purifier"
+            ]
+          },
+          {
+            "id": "ssuf",
+            "h2": "不锈钢超滤系统",
+            "intro": "面向全屋和商用场景的工业级过滤：304不锈钢外壳，可清洗PVDF膜，流量从1000到20000升/小时可选。",
+            "slugs": [
+              "stainless-steel-uf-system-washable-pvdf"
+            ]
+          },
+          {
+            "id": "accessories",
+            "h2": "滤芯与配件",
+            "intro": "系统所需的全部耗材——设计得足够简单，任何人一年换一次，不需要工具，也不需要师傅上门。",
+            "slugs": [
+              "ro-membrane-100g-1000g",
+              "f210-f910-compound-filter-cartridge",
+              "post-carbon-filter-st33-kb33",
+              "pressurized-water-tank-3-2g",
+              "smart-jar-zhh-a",
+              "uf-hollow-fiber-membrane"
+            ]
+          }
+        ]
+      }
+    },
+    "ro-systems": {
+      "en": {
+        "title": "Electricity-Free Reverse Osmosis Water Filter Systems | KomiBright",
+        "description": "Pumpless, electricity-free reverse osmosis water filter systems with 0.0001 μm filtration and one filter change per year. Patented non-electric RO technology by KomiBright.",
+        "canonical": "https://komibright.com/ro-systems.html",
+        "ogTitle": "Electricity-Free Reverse Osmosis Water Filter Systems | KomiBright",
+        "ogDescription": "Pumpless, electricity-free reverse osmosis water filter systems with 0.0001 μm filtration and one filter change per year. Patented non-electric RO technology by KomiBright.",
+        "ogUrl": "https://komibright.com/ro-systems.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "eyebrow": "Product range",
+        "h1": "Electricity-Free Reverse Osmosis Systems",
+        "lead": "Our core range: reverse osmosis systems that run on tap-water pressure alone — no pump, no power socket, no noise. One compound filter and one membrane, replaced once a year.",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Products",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "RO Systems"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c25rh-countertop-ro-water-purifier-smart-jar",
+          "kb-c25rp-under-sink-ro-system-post-carbon",
+          "customized-housing-ro-water-purifier"
+        ]
+      },
+      "zh": {
+        "title": "免电反渗透净水器（RO净水器）| KomiBright",
+        "description": "KomiBright 免泵免电反渗透净水器，0.0001μm过滤精度，一年只换一次滤芯。专利免电RO技术，安装简单，使用省心。",
+        "canonical": "https://komibright.com/zh/ro-systems.html",
+        "ogTitle": "免电反渗透净水器（RO净水器）| KomiBright",
+        "ogDescription": "KomiBright 免泵免电反渗透净水器，0.0001μm过滤精度，一年只换一次滤芯。专利免电RO技术，安装简单，使用省心。",
+        "ogUrl": "https://komibright.com/zh/ro-systems.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "eyebrow": "产品系列",
+        "h1": "免电反渗透净水器",
+        "lead": "这是我们的核心产品线：只靠自来水压力工作的反渗透净水器——不用泵、不插电、零噪音。一支复合滤芯加一支RO膜，一年只需更换一次。",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "产品中心",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "RO反渗透净水器"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "kb-c25r-electricity-free-reverse-osmosis-system",
+          "kb-c25rh-countertop-ro-water-purifier-smart-jar",
+          "kb-c25rp-under-sink-ro-system-post-carbon",
+          "customized-housing-ro-water-purifier"
+        ]
+      }
+    },
+    "direct-flow-ro": {
+      "en": {
+        "title": "Tankless & Pumpless Direct Flow RO Systems | KomiBright",
+        "description": "Tankless, pumpless direct-flow reverse osmosis systems with 1000G membranes and 304 stainless steel housings — big flow rate for homes and light commercial use.",
+        "canonical": "https://komibright.com/direct-flow-ro.html",
+        "ogTitle": "Tankless & Pumpless Direct Flow RO Systems | KomiBright",
+        "ogDescription": "Tankless, pumpless direct-flow reverse osmosis systems with 1000G membranes and 304 stainless steel housings — big flow rate for homes and light commercial use.",
+        "ogUrl": "https://komibright.com/direct-flow-ro.html",
+        "ogImage": "https://komibright.com/assets/img/c100r.webp",
+        "eyebrow": "Product range",
+        "h1": "Tankless Direct Flow RO Systems",
+        "lead": "Big flow, small footprint. Direct-flow systems skip the storage tank entirely — water is purified on demand through a 1000G membrane.",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Products",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Direct Flow RO"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "kb-c100r-tankless-direct-flow-ro-system"
+        ]
+      },
+      "zh": {
+        "title": "无桶无泵大流量RO净水器 | KomiBright",
+        "description": "KomiBright无桶无泵直饮大流量RO净水器：1000G大通量RO膜即滤即饮，304不锈钢外壳，双出水口设计，水压3公斤即可免泵使用，适合家庭与轻商用场景。",
+        "canonical": "https://komibright.com/zh/direct-flow-ro.html",
+        "ogTitle": "无桶无泵大流量RO净水器 | KomiBright",
+        "ogDescription": "KomiBright无桶无泵直饮大流量RO净水器：1000G大通量RO膜即滤即饮，304不锈钢外壳，双出水口设计，水压3公斤即可免泵使用，适合家庭与轻商用场景。",
+        "ogUrl": "https://komibright.com/zh/direct-flow-ro.html",
+        "ogImage": "https://komibright.com/assets/img/c100r.webp",
+        "eyebrow": "产品系列",
+        "h1": "无桶直饮大流量RO净水器",
+        "lead": "大流量、小体积。直饮机型完全省去储水桶，1000G大通量RO膜即滤即饮，新鲜看得见。",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "产品中心",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "无桶大流量RO"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "kb-c100r-tankless-direct-flow-ro-system"
+        ]
+      }
+    },
+    "outdoor-water-purifiers": {
+      "en": {
+        "title": "Outdoor Portable RO Water Purifiers for Camping & RV | KomiBright",
+        "description": "Portable reverse osmosis water purifiers for camping, RV and off-grid life. Purify water from taps, rivers and lakes — no electricity needed.",
+        "canonical": "https://komibright.com/outdoor-water-purifiers.html",
+        "ogTitle": "Outdoor Portable RO Water Purifiers for Camping & RV | KomiBright",
+        "ogDescription": "Portable reverse osmosis water purifiers for camping, RV and off-grid life. Purify water from taps, rivers and lakes — no electricity needed.",
+        "ogUrl": "https://komibright.com/outdoor-water-purifiers.html",
+        "ogImage": "https://komibright.com/assets/img/a95r.webp",
+        "eyebrow": "Product range",
+        "h1": "Outdoor & Portable RO Water Purifiers",
+        "lead": "Take RO-grade water anywhere. Built for campsites, RVs and anywhere the grid doesn't reach — the same 0.0001 μm filtration, in a carry-anywhere format.",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Products",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Outdoor Purifiers"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "kb-a95r-outdoor-ro-water-purifier"
+        ]
+      },
+      "zh": {
+        "title": "户外便携RO净水器（露营/房车适用）| KomiBright",
+        "description": "KomiBright户外便携反渗透净水器，专为露营、房车与离网生活打造。自来水、河水、湖水均可净化至0.0001μm，全程无需用电，滤芯一年一换。",
+        "canonical": "https://komibright.com/zh/outdoor-water-purifiers.html",
+        "ogTitle": "户外便携RO净水器（露营/房车适用）| KomiBright",
+        "ogDescription": "KomiBright户外便携反渗透净水器，专为露营、房车与离网生活打造。自来水、河水、湖水均可净化至0.0001μm，全程无需用电，滤芯一年一换。",
+        "ogUrl": "https://komibright.com/zh/outdoor-water-purifiers.html",
+        "ogImage": "https://komibright.com/assets/img/a95r.webp",
+        "eyebrow": "产品系列",
+        "h1": "户外便携RO净水器",
+        "lead": "把RO级好水带到任何地方。为露营地、房车和电网到不了的地方而生——同样的0.0001μm过滤精度，随身携带。",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "产品中心",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "户外净水器"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "kb-a95r-outdoor-ro-water-purifier"
+        ]
+      }
+    },
+    "stainless-steel-uf": {
+      "en": {
+        "title": "Stainless Steel UF Systems — Washable PVDF Membrane | KomiBright",
+        "description": "Whole-house and commercial stainless steel ultrafiltration systems with washable PVDF membranes, 1,000–20,000 L/H, zero waste water.",
+        "canonical": "https://komibright.com/stainless-steel-uf.html",
+        "ogTitle": "Stainless Steel UF Systems — Washable PVDF Membrane | KomiBright",
+        "ogDescription": "Whole-house and commercial stainless steel ultrafiltration systems with washable PVDF membranes, 1,000–20,000 L/H, zero waste water.",
+        "ogUrl": "https://komibright.com/stainless-steel-uf.html",
+        "ogImage": "https://komibright.com/assets/img/ssuf.webp",
+        "eyebrow": "Product range",
+        "h1": "Stainless Steel Ultrafiltration Systems",
+        "lead": "Industrial-grade filtration for the whole house or business: 304 stainless steel housings, washable PVDF membranes, and capacities from 1,000 to 20,000 litres per hour.",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Products",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Stainless Steel UF"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "stainless-steel-uf-system-washable-pvdf"
+        ]
+      },
+      "zh": {
+        "title": "不锈钢超滤系统（可洗PVDF膜）| KomiBright",
+        "description": "KomiBright全屋与商用不锈钢超滤系统：可反复清洗的PVDF膜，0.01μm过滤精度，1000–20000L/H七档流量可选，外压式设计零废水，支持卧式与壁挂安装。",
+        "canonical": "https://komibright.com/zh/stainless-steel-uf.html",
+        "ogTitle": "不锈钢超滤系统（可洗PVDF膜）| KomiBright",
+        "ogDescription": "KomiBright全屋与商用不锈钢超滤系统：可反复清洗的PVDF膜，0.01μm过滤精度，1000–20000L/H七档流量可选，外压式设计零废水，支持卧式与壁挂安装。",
+        "ogUrl": "https://komibright.com/zh/stainless-steel-uf.html",
+        "ogImage": "https://komibright.com/assets/img/ssuf.webp",
+        "eyebrow": "产品系列",
+        "h1": "不锈钢超滤系统",
+        "lead": "面向全屋和商用场景的工业级过滤：304不锈钢外壳，可清洗PVDF膜，流量从1000到20000升/小时可选。",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "产品中心",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "不锈钢超滤系统"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "stainless-steel-uf-system-washable-pvdf"
+        ]
+      }
+    },
+    "accessories": {
+      "en": {
+        "title": "RO Membranes, Filter Cartridges & Accessories | KomiBright",
+        "description": "Genuine KomiBright replacement parts: RO membranes 100G/1000G, F-210/F-910 compound filters, post-carbon filters, pressure tanks and smart jars.",
+        "canonical": "https://komibright.com/accessories.html",
+        "ogTitle": "RO Membranes, Filter Cartridges & Accessories | KomiBright",
+        "ogDescription": "Genuine KomiBright replacement parts: RO membranes 100G/1000G, F-210/F-910 compound filters, post-carbon filters, pressure tanks and smart jars.",
+        "ogUrl": "https://komibright.com/accessories.html",
+        "ogImage": "https://komibright.com/assets/img/combo-filter.webp",
+        "eyebrow": "Product range",
+        "h1": "Replacement Filters & Accessories",
+        "lead": "Every consumable your system needs — engineered to be replaced by anyone, once a year, without tools or a technician.",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Products",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Filters & Accessories"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "ro-membrane-100g-1000g",
+          "f210-f910-compound-filter-cartridge",
+          "post-carbon-filter-st33-kb33",
+          "pressurized-water-tank-3-2g",
+          "smart-jar-zhh-a",
+          "uf-hollow-fiber-membrane"
+        ]
+      },
+      "zh": {
+        "title": "RO膜、复合滤芯与净水器配件 | KomiBright",
+        "description": "KomiBright 原厂配件：100G/1000G反渗透膜、F-210/F-910复合滤芯、后置炭滤芯、压力桶与智能壶。",
+        "canonical": "https://komibright.com/zh/accessories.html",
+        "ogTitle": "RO膜、复合滤芯与净水器配件 | KomiBright",
+        "ogDescription": "KomiBright 原厂配件：100G/1000G反渗透膜、F-210/F-910复合滤芯、后置炭滤芯、压力桶与智能壶。",
+        "ogUrl": "https://komibright.com/zh/accessories.html",
+        "ogImage": "https://komibright.com/assets/img/combo-filter.webp",
+        "eyebrow": "产品系列",
+        "h1": "替换滤芯与配件",
+        "lead": "系统所需的全部耗材——设计得足够简单，任何人一年换一次，不需要工具，也不需要师傅上门。",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://komibright.com/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "产品中心",
+                "item": "https://komibright.com/products.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "滤芯与配件"
+              }
+            ]
+          }
+        ],
+        "slugs": [
+          "ro-membrane-100g-1000g",
+          "f210-f910-compound-filter-cartridge",
+          "post-carbon-filter-st33-kb33",
+          "pressurized-water-tank-3-2g",
+          "smart-jar-zhh-a",
+          "uf-hollow-fiber-membrane"
+        ]
+      }
+    }
+  },
+  "contentMeta": {
+    "index": {
+      "en": {
+        "title": "KomiBright — Electricity-Free Reverse Osmosis Water Purification Systems",
+        "description": "Patented pumpless reverse osmosis and ultrafiltration systems since 2009. 0.0001 μm purified water from tap pressure alone, one filter change a year. OEM/ODM welcome.",
+        "canonical": "https://komibright.com/index.html",
+        "ogTitle": "KomiBright — Electricity-Free Reverse Osmosis Water Purification Systems",
+        "ogDescription": "Patented pumpless reverse osmosis and ultrafiltration systems since 2009. 0.0001 μm purified water from tap pressure alone, one filter change a year. OEM/ODM welcome.",
+        "ogUrl": "https://komibright.com/index.html",
+        "ogImage": "https://komibright.com/assets/img/banner-2.webp",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "KomiBright",
+            "url": "https://komibright.com",
+            "foundingDate": "2009",
+            "email": "info@komibright.com",
+            "telephone": "+86-400-068-0889",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "202, Bldg. B, No. 6 Hua Zhong Rd., Minhang District",
+              "addressLocality": "Shanghai",
+              "addressCountry": "CN"
+            },
+            "sameAs": [
+              "https://www.youtube.com/@maymaylee3137"
+            ],
+            "logo": "https://komibright.com/assets/img/logo.svg"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "KomiBright",
+            "url": "https://komibright.com",
+            "inLanguage": [
+              "en",
+              "zh-CN"
+            ]
+          }
+        ]
+      },
+      "zh": {
+        "title": "KomiBright — 免电反渗透净水系统制造商",
+        "description": "自2009年专注免泵免电反渗透与超滤系统。只靠自来水压力获得0.0001μm纯水，滤芯一年一换。支持OEM/ODM。",
+        "canonical": "https://komibright.com/zh/index.html",
+        "ogTitle": "KomiBright — 免电反渗透净水系统制造商",
+        "ogDescription": "自2009年专注免泵免电反渗透与超滤系统。只靠自来水压力获得0.0001μm纯水，滤芯一年一换。支持OEM/ODM。",
+        "ogUrl": "https://komibright.com/zh/index.html",
+        "ogImage": "https://komibright.com/assets/img/banner-2.webp",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "KomiBright",
+            "url": "https://komibright.com",
+            "foundingDate": "2009",
+            "email": "info@komibright.com",
+            "telephone": "+86-400-068-0889",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "202, Bldg. B, No. 6 Hua Zhong Rd., Minhang District",
+              "addressLocality": "Shanghai",
+              "addressCountry": "CN"
+            },
+            "sameAs": [
+              "https://www.youtube.com/@maymaylee3137"
+            ],
+            "logo": "https://komibright.com/assets/img/logo.svg"
+          },
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "name": "KomiBright",
+            "url": "https://komibright.com",
+            "inLanguage": [
+              "en",
+              "zh-CN"
+            ]
+          }
+        ]
+      }
+    },
+    "technology": {
+      "en": {
+        "title": "Pumpless RO Technology — Reverse Osmosis Without Electricity | KomiBright",
+        "description": "How KomiBright's patented pumpless reverse osmosis works: self-stabilising valves and low-resistance waterways deliver 0.0001 μm filtration from 1.5-bar tap pressure — no electricity.",
+        "canonical": "https://komibright.com/technology.html",
+        "ogTitle": "Pumpless RO Technology — Reverse Osmosis Without Electricity | KomiBright",
+        "ogDescription": "How KomiBright's patented pumpless reverse osmosis works: self-stabilising valves and low-resistance waterways deliver 0.0001 μm filtration from 1.5-bar tap pressure — no electricity.",
+        "ogUrl": "https://komibright.com/technology.html",
+        "ogImage": "https://komibright.com/assets/img/c25r-detail.webp",
+        "jsonld": []
+      },
+      "zh": {
+        "title": "免泵RO技术 — 不用电的反渗透 | KomiBright",
+        "description": "解读KomiBright专利免泵反渗透技术：自稳压阀件与低阻力水路，让1.5公斤自来水压实现0.0001μm过滤——全程不用电。",
+        "canonical": "https://komibright.com/zh/technology.html",
+        "ogTitle": "免泵RO技术 — 不用电的反渗透 | KomiBright",
+        "ogDescription": "解读KomiBright专利免泵反渗透技术：自稳压阀件与低阻力水路，让1.5公斤自来水压实现0.0001μm过滤——全程不用电。",
+        "ogUrl": "https://komibright.com/zh/technology.html",
+        "ogImage": "https://komibright.com/assets/img/c25r-detail.webp",
+        "jsonld": []
+      }
+    },
+    "about": {
+      "en": {
+        "title": "About KomiBright — Electricity-Free RO Manufacturer Since 2009",
+        "description": "KomiBright has built electricity-free reverse osmosis water purifiers since 2009, following the KISS principle. Patent owner, 4 product generations, users in ~30 countries.",
+        "canonical": "https://komibright.com/about.html",
+        "ogTitle": "About KomiBright — Electricity-Free RO Manufacturer Since 2009",
+        "ogDescription": "KomiBright has built electricity-free reverse osmosis water purifiers since 2009, following the KISS principle. Patent owner, 4 product generations, users in ~30 countries.",
+        "ogUrl": "https://komibright.com/about.html",
+        "ogImage": "https://komibright.com/assets/img/factory-office.webp",
+        "jsonld": []
+      },
+      "zh": {
+        "title": "关于KomiBright — 2009年创立的免电RO制造商",
+        "description": "KomiBright 自2009年起专注免电反渗透净水器，坚持KISS理念。专利持有者，产品历经四代升级，用户遍布近30个国家。",
+        "canonical": "https://komibright.com/zh/about.html",
+        "ogTitle": "关于KomiBright — 2009年创立的免电RO制造商",
+        "ogDescription": "KomiBright 自2009年起专注免电反渗透净水器，坚持KISS理念。专利持有者，产品历经四代升级，用户遍布近30个国家。",
+        "ogUrl": "https://komibright.com/zh/about.html",
+        "ogImage": "https://komibright.com/assets/img/factory-office.webp",
+        "jsonld": []
+      }
+    },
+    "oem-odm": {
+      "en": {
+        "title": "OEM / ODM Water Purifier Manufacturer | KomiBright",
+        "description": "Partner with the patent owner of pumpless RO: OEM/ODM water purifiers with customized housings, professional R&D and IQC/PQC/OQC quality control. Exporting to ~30 countries.",
+        "canonical": "https://komibright.com/oem-odm.html",
+        "ogTitle": "OEM / ODM Water Purifier Manufacturer | KomiBright",
+        "ogDescription": "Partner with the patent owner of pumpless RO: OEM/ODM water purifiers with customized housings, professional R&D and IQC/PQC/OQC quality control. Exporting to ~30 countries.",
+        "ogUrl": "https://komibright.com/oem-odm.html",
+        "ogImage": "https://komibright.com/assets/img/custom.webp",
+        "jsonld": []
+      },
+      "zh": {
+        "title": "净水器OEM/ODM代工厂 | KomiBright",
+        "description": "与免泵RO专利持有者合作：OEM/ODM净水器代工，外观可定制，专业研发与IQC/PQC/OQC品控，出口近30个国家。",
+        "canonical": "https://komibright.com/zh/oem-odm.html",
+        "ogTitle": "净水器OEM/ODM代工厂 | KomiBright",
+        "ogDescription": "与免泵RO专利持有者合作：OEM/ODM净水器代工，外观可定制，专业研发与IQC/PQC/OQC品控，出口近30个国家。",
+        "ogUrl": "https://komibright.com/zh/oem-odm.html",
+        "ogImage": "https://komibright.com/assets/img/custom.webp",
+        "jsonld": []
+      }
+    },
+    "faq": {
+      "en": {
+        "title": "FAQ — Pumpless RO Systems | KomiBright",
+        "description": "Answers on electricity-free reverse osmosis: required water pressure, filter replacement, what 0.0001 μm removes, OEM/ODM and export.",
+        "canonical": "https://komibright.com/faq.html",
+        "ogTitle": "FAQ — Pumpless RO Systems | KomiBright",
+        "ogDescription": "Answers on electricity-free reverse osmosis: required water pressure, filter replacement, what 0.0001 μm removes, OEM/ODM and export.",
+        "ogUrl": "https://komibright.com/faq.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "How can a reverse osmosis system work without electricity?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Reverse osmosis only needs pressure, not electricity. Conventional RO machines add an electric booster pump; KomiBright systems are engineered with innovative self-stabilising valves, an integrated flow restrictor and a low-resistance waterway so that normal municipal tap pressure (from 1.5 bar) is enough to push water through the 0.0001 μm membrane."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What water pressure do I need?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "C25R-series systems run on 21–70 PSI (1.5–5 bar). The KB-C100R direct-flow system needs 30–70 PSI (2–5 bar); with 3 bars of tap pressure it needs no pump kit at all. If your pressure is lower, a pump kit can be added."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "How often do filters need replacing, and can I do it myself?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Once a year — that's the whole maintenance schedule. One compound filter and one membrane, both designed for tool-free replacement in minutes. No technician visit needed."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "What does 0.0001 μm filtration actually remove?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "The RO membrane removes dissolved salts, heavy metal ions, bacteria, viruses and organic contaminants. Upstream, the compound filter removes sediment, rust, residual chlorine, odour and volatile organic compounds."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Do you support OEM / ODM orders?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Yes. KomiBright is the original brand, original designer and patent owner, with a professional R&D department. OEM and ODM orders are welcome — housing colours and configurations can be customized, and our team supports you from engineering through export."
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "Where does KomiBright ship?",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "Our products are used in nearly 30 countries worldwide. From raw material purchasing to export, every step is controlled by IQC, PQC and OQC quality processes. Contact us for lead times and shipping terms for your market."
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "zh": {
+        "title": "常见问题 — 免泵RO净水器 | KomiBright",
+        "description": "关于免电反渗透的常见疑问：所需水压、滤芯更换、0.0001μm能去除什么、OEM/ODM与出口事宜。",
+        "canonical": "https://komibright.com/zh/faq.html",
+        "ogTitle": "常见问题 — 免泵RO净水器 | KomiBright",
+        "ogDescription": "关于免电反渗透的常见疑问：所需水压、滤芯更换、0.0001μm能去除什么、OEM/ODM与出口事宜。",
+        "ogUrl": "https://komibright.com/zh/faq.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "jsonld": [
+          {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+              {
+                "@type": "Question",
+                "name": "反渗透净水器怎么可能不用电？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "反渗透需要的是压力，不是电。传统RO机靠电动增压泵提供压力；KomiBright 通过创新自稳压阀件、集成限流器和低阻力水路设计，让普通市政自来水压力（1.5公斤起）就足以把水压过0.0001μm的RO膜。"
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "需要多大的水压？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "C25R系列在21–70 PSI（1.5–5 bar）下工作。KB-C100R直饮机需要30–70 PSI（2–5 bar），水压达到3公斤即可完全免泵使用。水压偏低的地区可以加装泵组。"
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "滤芯多久换一次？自己能换吗？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "一年一次，这就是全部的保养计划。一支复合滤芯加一支RO膜，都是免工具设计，几分钟换好，不需要师傅上门。"
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "0.0001μm的过滤精度到底能去除什么？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "RO膜可去除溶解盐、重金属离子、细菌、病毒与有机污染物。在此之前，复合滤芯先去除泥沙、铁锈、余氯、异味和挥发性有机物。"
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "支持OEM/ODM贴牌吗？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "支持。KomiBright 是原创品牌、原创设计与专利持有者，拥有专业研发部门。欢迎OEM与ODM订单——外壳颜色与配置均可定制，从工程到出口全程有团队对接。"
+                }
+              },
+              {
+                "@type": "Question",
+                "name": "KomiBright 出口到哪些地区？",
+                "acceptedAnswer": {
+                  "@type": "Answer",
+                  "text": "我们的产品已进入全球近30个国家。从原材料采购到出口交付，全程由IQC、PQC、OQC质检流程把控。欢迎联系我们了解您所在市场的交期与贸易条款。"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "contact": {
+      "en": {
+        "title": "Contact KomiBright — WhatsApp, Email, Phone",
+        "description": "Contact KomiBright in Shanghai: WhatsApp +886932137562, email info@komibright.com, phone +86-400-068-0889. Distributor, OEM and sample inquiries welcome.",
+        "canonical": "https://komibright.com/contact.html",
+        "ogTitle": "Contact KomiBright — WhatsApp, Email, Phone",
+        "ogDescription": "Contact KomiBright in Shanghai: WhatsApp +886932137562, email info@komibright.com, phone +86-400-068-0889. Distributor, OEM and sample inquiries welcome.",
+        "ogUrl": "https://komibright.com/contact.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "jsonld": []
+      },
+      "zh": {
+        "title": "联系KomiBright — WhatsApp、邮箱、电话",
+        "description": "联系上海KomiBright：WhatsApp +886932137562，邮箱 info@komibright.com，电话 +86-400-068-0889。欢迎经销、OEM与样机询盘。",
+        "canonical": "https://komibright.com/zh/contact.html",
+        "ogTitle": "联系KomiBright — WhatsApp、邮箱、电话",
+        "ogDescription": "联系上海KomiBright：WhatsApp +886932137562，邮箱 info@komibright.com，电话 +86-400-068-0889。欢迎经销、OEM与样机询盘。",
+        "ogUrl": "https://komibright.com/zh/contact.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "jsonld": []
+      }
+    },
+    "404": {
+      "en": {
+        "title": "Page not found | KomiBright",
+        "description": "Page not found.",
+        "canonical": "https://komibright.com/404.html",
+        "ogTitle": "Page not found | KomiBright",
+        "ogDescription": "Page not found.",
+        "ogUrl": "https://komibright.com/404.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "jsonld": []
+      },
+      "zh": {
+        "title": "页面不存在 | KomiBright",
+        "description": "页面不存在。",
+        "canonical": "https://komibright.com/zh/404.html",
+        "ogTitle": "页面不存在 | KomiBright",
+        "ogDescription": "页面不存在。",
+        "ogUrl": "https://komibright.com/zh/404.html",
+        "ogImage": "https://komibright.com/assets/img/c25r.webp",
+        "jsonld": []
+      }
+    }
+  }
+}
