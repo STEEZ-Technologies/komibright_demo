@@ -89,12 +89,16 @@ export default function AboutView({ lang }: { lang: Lang }) {
           <p className="lead" style={{ maxWidth: "50em" }}>
             {c.certIntro[lang]}
           </p>
-          <div className="cert-grid reveal">
-            {c.certs.map((cert, i) => (
-              <div key={i} className="cert-badge">
-                <span className="cert-acr">{cert.acr}</span>
-                <span className="cert-label">{cert.label[lang]}</span>
-              </div>
+          <div className="cert-imgs">
+            {c.certImgs.map((img, i) => (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img
+                key={i}
+                src={img.src}
+                alt={img.alt[lang]}
+                loading="lazy"
+                className="cert-img reveal"
+              />
             ))}
           </div>
         </div>

@@ -340,6 +340,22 @@ export const about = {
     { acr: "FDA", label: { en: "Food-grade (Philippines)", zh: "食品级（菲律宾）" } },
     { acr: "WaterMark", label: { en: "Australia", zh: "澳大利亚认证" } },
   ] as { acr: string; label: L }[],
+  certImgs: [
+    {
+      src: "/assets/img/cert-1.webp",
+      alt: {
+        en: "KomiBright international quality certifications — WQA, CE, SGS, NSF, ISO",
+        zh: "KomiBright 国际质量认证——WQA、CE、SGS、NSF、ISO",
+      },
+    },
+    {
+      src: "/assets/img/cert-2.webp",
+      alt: {
+        en: "WaterMark certificates (Australia) for the Aquatower and Aquaflow series",
+        zh: "澳大利亚 WaterMark 认证（Aquatower、Aquaflow 系列）",
+      },
+    },
+  ] as { src: string; alt: L }[],
   lifestyleImg: "/assets/img/lifestyle-kitchen.png",
   lifestyleAlt: {
     en: "A glass being filled with clean purified water in a bright kitchen",

@@ -339,3 +339,8 @@ p{margin:0 0 1em;color:var(--ink-2)}
 .lifestyle .lifestyle-cap{position:absolute;left:0;bottom:0;padding:26px 30px;color:#fff;font-weight:700;font-size:1.15rem;letter-spacing:-.01em;background:linear-gradient(0deg,rgba(6,42,84,.55),transparent);width:100%}
 @media (max-width:760px){.lifestyle{aspect-ratio:16/9}.lifestyle .lifestyle-cap{font-size:1rem;padding:18px 20px}}
 .lifestyle.lifestyle-tall{aspect-ratio:16/9}
+/* certificate image gallery (About page) */
+.cert-imgs{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:34px;align-items:start}
+.cert-img{width:100%;height:auto;background:#fff;border:1px solid var(--line);border-radius:16px;padding:16px;box-shadow:var(--shadow);object-fit:contain;transition:transform .2s ease,box-shadow .2s ease}
+.cert-img:hover{transform:translateY(-3px);box-shadow:var(--shadow-lg)}
+@media (max-width:760px){.cert-imgs{grid-template-columns:1fr}}
