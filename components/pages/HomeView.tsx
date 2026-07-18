@@ -129,6 +129,20 @@ export default function HomeView({ lang }: { lang: Lang }) {
 
       <section className="section">
         <div className="wrap">
+          <div className="lifestyle reveal">
+            <Img
+              src={home.lifestyleImg}
+              alt={home.lifestyleAlt[lang]}
+              width={1376}
+              height={768}
+              loading="lazy"
+            />
+            <div className="lifestyle-cap">{home.lifestyleCap[lang]}</div>
+          </div>
+        </div>
+      </section>
+      <section className="section">
+        <div className="wrap">
           <span className="eyebrow">{home.featuredEyebrow[lang]}</span>
           <h2>{home.featuredH2[lang]}</h2>
           <div className="grid grid-3" style={{ marginTop: "34px" }}>

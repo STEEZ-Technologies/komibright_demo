@@ -52,6 +52,20 @@ export default function AboutView({ lang }: { lang: Lang }) {
           </div>
         </div>
       </section>
+      <section className="section">
+        <div className="wrap">
+          <div className="lifestyle lifestyle-tall reveal">
+            <Img
+              src={c.lifestyleImg}
+              alt={c.lifestyleAlt[lang]}
+              width={1200}
+              height={896}
+              loading="lazy"
+            />
+            <div className="lifestyle-cap">{c.lifestyleCap[lang]}</div>
+          </div>
+        </div>
+      </section>
       <section className="section tint">
         <div className="wrap">
           <h2>{c.builtH2[lang]}</h2>
@@ -63,6 +77,23 @@ export default function AboutView({ lang }: { lang: Lang }) {
                 </div>
                 <h3>{f.h3[lang]}</h3>
                 <p>{f.p[lang]}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+      <section className="section">
+        <div className="wrap">
+          <span className="eyebrow">{c.certEyebrow[lang]}</span>
+          <h2>{c.certH2[lang]}</h2>
+          <p className="lead" style={{ maxWidth: "50em" }}>
+            {c.certIntro[lang]}
+          </p>
+          <div className="cert-grid reveal">
+            {c.certs.map((cert, i) => (
+              <div key={i} className="cert-badge">
+                <span className="cert-acr">{cert.acr}</span>
+                <span className="cert-label">{cert.label[lang]}</span>
               </div>
             ))}
           </div>

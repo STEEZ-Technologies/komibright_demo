@@ -320,3 +320,22 @@ p{margin:0 0 1em;color:var(--ink-2)}
 /* --- section title underline draw --- */
 .eyebrow{position:relative}
 } /* end reduced-motion guard */
+
+/* ============================================================
+   Additions — certifications badge grid (About page)
+   ============================================================ */
+.cert-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:16px;margin-top:34px}
+.cert-badge{display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:6px;padding:22px 14px;background:#fff;border:1px solid var(--line);border-radius:14px;transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease}
+.cert-badge:hover{transform:translateY(-3px);box-shadow:var(--shadow);border-color:var(--blue)}
+.cert-acr{font-weight:800;font-size:1.12rem;letter-spacing:-.01em;color:var(--navy)}
+.cert-label{font-size:.78rem;font-weight:600;color:var(--ink-3);line-height:1.3}
+@media (max-width:1020px){.cert-grid{grid-template-columns:repeat(4,1fr)}}
+@media (max-width:760px){.cert-grid{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:480px){.cert-grid{grid-template-columns:repeat(2,1fr)}}
+
+/* full-bleed lifestyle image band (home) */
+.lifestyle{position:relative;border-radius:24px;overflow:hidden;box-shadow:var(--shadow-lg);aspect-ratio:16/6;margin-top:8px}
+.lifestyle img{width:100%;height:100%;object-fit:cover;display:block}
+.lifestyle .lifestyle-cap{position:absolute;left:0;bottom:0;padding:26px 30px;color:#fff;font-weight:700;font-size:1.15rem;letter-spacing:-.01em;background:linear-gradient(0deg,rgba(6,42,84,.55),transparent);width:100%}
+@media (max-width:760px){.lifestyle{aspect-ratio:16/9}.lifestyle .lifestyle-cap{font-size:1rem;padding:18px 20px}}
+.lifestyle.lifestyle-tall{aspect-ratio:16/9}

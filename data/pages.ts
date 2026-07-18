@@ -197,6 +197,15 @@ export const home = {
   faqEyebrow: { en: "FAQ", zh: "FAQ" } as L,
   faqH2: { en: "Questions, answered", zh: "常见问题" } as L,
   faqAllLink: { en: "All questions →", zh: "查看全部问题 →" } as L,
+  lifestyleImg: "/assets/img/lifestyle-droplet.png",
+  lifestyleAlt: {
+    en: "A water droplet rippling on a surface of pure water",
+    zh: "纯水表面荡开的水滴涟漪",
+  } as L,
+  lifestyleCap: {
+    en: "0.0001 μm pure water — from tap pressure alone.",
+    zh: "0.0001μm 纯水——只靠自来水压力。",
+  } as L,
 };
 
 // ---------------------------- Technology ------------------------------------
@@ -313,6 +322,33 @@ export const about = {
     { src: "/assets/img/expo-2.webp", alt: { en: "KomiBright at a trade fair", zh: "KomiBright参展现场" } },
     { src: "/assets/img/expo-3.webp", alt: { en: "KomiBright exhibition team", zh: "KomiBright展会团队" } },
   ] as { src: string; alt: L }[],
+  certEyebrow: { en: "Quality & trust", zh: "品质与信任" } as L,
+  certH2: { en: "Certifications & compliance", zh: "认证与合规" } as L,
+  certIntro: {
+    en: "KomiBright's products and materials have earned a range of international quality certifications — WQA, CE, SGS, NSF, ISO 9001, ISO 14001, BSI and more — controlled from raw material through finished export.",
+    zh: "KomiBright 的产品与材料已通过 WQA、CE、SGS、NSF、ISO 9001、ISO 14001、BSI 等多项国际质量认证——从原材料到成品出口，全程把控。",
+  } as L,
+  certs: [
+    { acr: "CE", label: { en: "European Conformity", zh: "欧盟认证" } },
+    { acr: "NSF", label: { en: "NSF International", zh: "NSF 认证" } },
+    { acr: "SGS", label: { en: "SGS tested", zh: "SGS 检测" } },
+    { acr: "WQA", label: { en: "Water Quality Association", zh: "美国水质协会" } },
+    { acr: "ISO 9001", label: { en: "Quality management", zh: "质量管理体系" } },
+    { acr: "ISO 14001", label: { en: "Environmental management", zh: "环境管理体系" } },
+    { acr: "BSI", label: { en: "British Standards", zh: "英国标准协会" } },
+    { acr: "RoHS", label: { en: "Restricted substances", zh: "有害物质限制" } },
+    { acr: "FDA", label: { en: "Food-grade (Philippines)", zh: "食品级（菲律宾）" } },
+    { acr: "WaterMark", label: { en: "Australia", zh: "澳大利亚认证" } },
+  ] as { acr: string; label: L }[],
+  lifestyleImg: "/assets/img/lifestyle-kitchen.png",
+  lifestyleAlt: {
+    en: "A glass being filled with clean purified water in a bright kitchen",
+    zh: "明亮厨房里倒入洁净纯水的玻璃杯",
+  } as L,
+  lifestyleCap: {
+    en: "Clean water, made simple — since 2009.",
+    zh: "把干净水做简单——始于2009。",
+  } as L,
 };
 
 // ------------------------------ OEM / ODM -----------------------------------
