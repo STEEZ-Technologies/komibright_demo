@@ -19,6 +19,7 @@ export default function Shell({
 }) {
   return (
     <>
+      <div className="scroll-progress" aria-hidden="true"></div>
       <Header lang={lang} active={active} altHref={altHref} />
       <main id="content">{children}</main>
       <Footer lang={lang} />

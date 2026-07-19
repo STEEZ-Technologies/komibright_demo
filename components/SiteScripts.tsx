@@ -62,6 +62,30 @@ export default function SiteScripts() {
       cleanups.push(() => window.removeEventListener("scroll", onScroll));
     }
 
+    /* scroll progress bar (GPU-cheap; rAF-throttled; skips reduced-motion) */
+    const bar = document.querySelector<HTMLElement>(".scroll-progress");
+    if (bar && !window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+      let ticking = false;
+      const paint = () => {
+        const doc = document.documentElement;
+        const max = doc.scrollHeight - doc.clientHeight;
+        const p = max > 0 ? doc.scrollTop / max : 0;
+        bar.style.transform = "scaleX(" + p + ")";
+        ticking = false;
+      };
+      const onProgress = () => {
+        if (!ticking) {
+          ticking = true;
+          requestAnimationFrame(paint);
+        }
+      };
+      window.addEventListener("scroll", onProgress, { passive: true });
+      window.addEventListener("resize", onProgress, { passive: true });
+      paint();
+      cleanups.push(() => window.removeEventListener("scroll", onProgress));
+      cleanups.push(() => window.removeEventListener("resize", onProgress));
+    }
+
     /* scroll reveal with stagger */
     if ("IntersectionObserver" in window) {
       let batch = 0;
