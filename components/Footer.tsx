@@ -14,7 +14,7 @@ export default function Footer({ lang }: { lang: Lang }) {
             <p>{f.blurb[lang]}</p>
           </div>
           <div>
-            <h4>{f.productsHeading[lang]}</h4>
+            <h2>{f.productsHeading[lang]}</h2>
             <ul>
               {categories.map((c) => (
                 <li key={c.id}>
@@ -24,7 +24,7 @@ export default function Footer({ lang }: { lang: Lang }) {
             </ul>
           </div>
           <div>
-            <h4>{f.companyHeading[lang]}</h4>
+            <h2>{f.companyHeading[lang]}</h2>
             <ul>
               <li>
                 <a href={pageUrl(lang, "about")}>{f.company.about[lang]}</a>
@@ -44,7 +44,7 @@ export default function Footer({ lang }: { lang: Lang }) {
             </ul>
           </div>
           <div>
-            <h4>{f.contactHeading[lang]}</h4>
+            <h2>{f.contactHeading[lang]}</h2>
             <ul>
               <li>
                 <a href={contact.phoneHref}>{contact.phoneDisplay}</a>

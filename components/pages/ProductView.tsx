@@ -70,7 +70,7 @@ export default function ProductView({ lang, slug }: { lang: Lang; slug: string }
                 className={i === 0 ? "on" : undefined}
                 aria-label={`Image ${i + 1}`}
               >
-                <img src={src} alt="" loading="lazy" />
+                <img src={src} alt="" loading="lazy" width={76} height={76} />
               </button>
             ))}
           </div>

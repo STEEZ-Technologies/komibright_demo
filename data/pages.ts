@@ -197,7 +197,7 @@ export const home = {
   faqEyebrow: { en: "FAQ", zh: "FAQ" } as L,
   faqH2: { en: "Questions, answered", zh: "常见问题" } as L,
   faqAllLink: { en: "All questions →", zh: "查看全部问题 →" } as L,
-  lifestyleImg: "/assets/img/lifestyle-droplet.png",
+  lifestyleImg: "/assets/img/lifestyle-droplet.webp",
   lifestyleAlt: {
     en: "A water droplet rippling on a surface of pure water",
     zh: "纯水表面荡开的水滴涟漪",
@@ -343,6 +343,8 @@ export const about = {
   certImgs: [
     {
       src: "/assets/img/cert-1.webp",
+      w: 1023,
+      h: 682,
       alt: {
         en: "KomiBright international quality certifications — WQA, CE, SGS, NSF, ISO",
         zh: "KomiBright 国际质量认证——WQA、CE、SGS、NSF、ISO",
@@ -350,13 +352,15 @@ export const about = {
     },
     {
       src: "/assets/img/cert-2.webp",
+      w: 1023,
+      h: 402,
       alt: {
         en: "WaterMark certificates (Australia) for the Aquatower and Aquaflow series",
         zh: "澳大利亚 WaterMark 认证（Aquatower、Aquaflow 系列）",
       },
     },
-  ] as { src: string; alt: L }[],
-  lifestyleImg: "/assets/img/lifestyle-kitchen.png",
+  ] as { src: string; w: number; h: number; alt: L }[],
+  lifestyleImg: "/assets/img/lifestyle-kitchen.webp",
   lifestyleAlt: {
     en: "A glass being filled with clean purified water in a bright kitchen",
     zh: "明亮厨房里倒入洁净纯水的玻璃杯",

@@ -95,6 +95,8 @@ export default function AboutView({ lang }: { lang: Lang }) {
               <img
                 key={i}
                 src={img.src}
+                width={img.w}
+                height={img.h}
                 alt={img.alt[lang]}
                 loading="lazy"
                 className="cert-img reveal"
@@ -112,6 +114,8 @@ export default function AboutView({ lang }: { lang: Lang }) {
               <img
                 key={i}
                 src={img.src}
+                width={800}
+                height={600}
                 alt={img.alt[lang]}
                 loading="lazy"
                 style={IMG_STYLE}
@@ -131,6 +135,8 @@ export default function AboutView({ lang }: { lang: Lang }) {
               <img
                 key={i}
                 src={img.src}
+                width={800}
+                height={600}
                 alt={img.alt[lang]}
                 loading="lazy"
                 style={IMG_STYLE}
