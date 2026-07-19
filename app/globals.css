@@ -233,7 +233,8 @@ p{margin:0 0 1em;color:var(--ink-2)}
 @media (max-width:600px){
   body{font-size:16px}
   .wa-label{display:none}
-  .btn-wa{padding:11px 13px}
+  .header-cta .btn-wa{width:42px;height:42px;min-width:42px;padding:0;border-radius:50%;justify-content:center;box-shadow:0 4px 12px -3px rgba(21,128,61,.45)}
+  .header-cta .btn-wa svg{width:20px;height:20px}
   .grid-2,.grid-3,.grid-4,.grid-5{grid-template-columns:1fr}
   .contact-grid,.form .row{grid-template-columns:1fr}
   .footer-main{grid-template-columns:1fr;gap:28px}
