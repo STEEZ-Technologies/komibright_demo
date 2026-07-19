@@ -1,8 +1,8 @@
 import type { Lang } from "@/data/types";
 import { homeUrl, pageUrl } from "@/lib/i18n";
 import { categories } from "@/data/categories";
-import { t, WHATSAPP_BASE } from "@/data/site";
-import { WhatsAppIcon } from "./icons";
+import { t } from "@/data/site";
+import { PhoneIcon } from "./icons";
 
 export type NavKey = "home" | "products" | "technology" | "oem" | "about" | "contact";
 
@@ -76,13 +76,11 @@ export default function Header({
             )}
           </div>
           <a
-            className="btn btn-wa"
-            href={WHATSAPP_BASE}
-            target="_blank"
-            rel="noopener"
-            aria-label={t.whatsappLabel[lang]}
+            className="btn btn-primary btn-contact"
+            href={pageUrl(lang, "contact")}
+            aria-label={t.nav.contact[lang]}
           >
-            <WhatsAppIcon /> <span className="wa-label">{t.whatsappLabel[lang]}</span>
+            <PhoneIcon /> <span className="cta-label">{t.nav.contact[lang]}</span>
           </a>
         </div>
         <button className="burger" aria-label={t.menuAria} aria-expanded="false">
