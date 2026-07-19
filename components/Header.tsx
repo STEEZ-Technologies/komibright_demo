@@ -23,7 +23,7 @@ export default function Header({
       <div className="wrap">
         <a className="logo" href={homeUrl(lang)} aria-label={t.homeAria}>
           {/* logo is an inline-sized SVG asset — plain img keeps markup identical */}
-          <img src="/assets/img/logo.svg" alt={t.logoAlt} width={120} height={34} />
+          <img src="/assets/img/logo.webp" alt={t.logoAlt} width={360} height={139} />
         </a>
         <nav className="nav" aria-label={t.mainNavAria}>
           <a href={homeUrl(lang)} className={cls("home")}>
@@ -75,8 +75,14 @@ export default function Header({
               </a>
             )}
           </div>
-          <a className="btn btn-wa" href={WHATSAPP_BASE} target="_blank" rel="noopener">
-            <WhatsAppIcon /> {t.whatsappLabel[lang]}
+          <a
+            className="btn btn-wa"
+            href={WHATSAPP_BASE}
+            target="_blank"
+            rel="noopener"
+            aria-label={t.whatsappLabel[lang]}
+          >
+            <WhatsAppIcon /> <span className="wa-label">{t.whatsappLabel[lang]}</span>
           </a>
         </div>
         <button className="burger" aria-label={t.menuAria} aria-expanded="false">

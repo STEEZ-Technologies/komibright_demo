@@ -16,6 +16,7 @@ const L = {
   emailInquiry: { en: "Email inquiry", zh: "邮件询价" },
   specs: { en: "Specifications", zh: "产品规格" },
   related: { en: "Related products", zh: "相关产品" },
+  view: { en: "view", zh: "视图" },
 } as const;
 
 export default function ProductView({ lang, slug }: { lang: Lang; slug: string }) {
@@ -70,7 +71,13 @@ export default function ProductView({ lang, slug }: { lang: Lang; slug: string }
                 className={i === 0 ? "on" : undefined}
                 aria-label={`Image ${i + 1}`}
               >
-                <img src={src} alt="" loading="lazy" width={76} height={76} />
+                <img
+                  src={src}
+                  alt={`${d.galleryAlt} — ${L.view[lang]} ${i + 1}`}
+                  loading="lazy"
+                  width={76}
+                  height={76}
+                />
               </button>
             ))}
           </div>

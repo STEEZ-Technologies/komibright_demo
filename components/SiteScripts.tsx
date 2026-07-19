@@ -22,7 +22,7 @@ export default function SiteScripts() {
       cleanups.push(() => burger.removeEventListener("click", onBurger));
       nav.querySelectorAll<HTMLAnchorElement>(".dropdown > a").forEach((a) => {
         const onClick = (e: Event) => {
-          if (window.matchMedia("(max-width: 860px)").matches) {
+          if (window.matchMedia("(max-width: 1080px)").matches) {
             e.preventDefault();
             a.parentElement?.classList.toggle("open");
           }
@@ -98,14 +98,14 @@ export default function SiteScripts() {
           entries.forEach((en) => {
             if (en.isIntersecting) {
               const el = en.target as HTMLElement;
-              el.style.setProperty("--d", Math.min(batch, 6) * 0.08 + "s");
+              el.style.setProperty("--d", Math.min(batch, 4) * 0.06 + "s");
               batch++;
               el.classList.add("in");
               io.unobserve(el);
             }
           });
         },
-        { threshold: 0.12 }
+        { threshold: 0.05, rootMargin: "0px 0px 120px 0px" }
       );
       document.querySelectorAll(".reveal").forEach((el) => io.observe(el));
       cleanups.push(() => io.disconnect());
