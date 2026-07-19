@@ -76,7 +76,7 @@ export default function Header({
             )}
           </div>
           <a
-            className="btn btn-primary btn-contact"
+            className="btn btn-contact"
             href={pageUrl(lang, "contact")}
             aria-label={t.nav.contact[lang]}
           >

@@ -50,6 +50,9 @@ p{margin:0 0 1em;color:var(--ink-2)}
 .btn-ghost:hover{border-color:var(--blue);color:var(--blue)}
 .btn-wa{background:#15803d;color:#fff}
 .btn-wa:hover{background:#0f7a37;color:#fff;transform:translateY(-1px);box-shadow:var(--shadow)}
+.btn-contact{background:transparent;color:var(--ink-2)}
+.btn-contact:hover,.btn-contact:focus-visible{background:var(--bg-tint);color:var(--blue)}
+.btn-contact:active{background:var(--bg-tint);color:var(--blue-dark)}
 
 /* ---------- header ---------- */
 .header{position:sticky;top:0;z-index:60;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
@@ -233,7 +236,7 @@ p{margin:0 0 1em;color:var(--ink-2)}
 @media (max-width:600px){
   body{font-size:16px}
   .cta-label{display:none}
-  .header-cta .btn-contact{width:42px;height:42px;min-width:42px;padding:0;border-radius:50%;justify-content:center;box-shadow:0 4px 12px -3px rgba(11,99,206,.45)}
+  .header-cta .btn-contact{width:42px;height:42px;min-width:42px;padding:0;border-radius:50%;justify-content:center}
   .header-cta .btn-contact svg{width:20px;height:20px}
   .grid-2,.grid-3,.grid-4,.grid-5{grid-template-columns:1fr}
   .contact-grid,.form .row{grid-template-columns:1fr}
