@@ -419,6 +419,97 @@ export const oem = {
   splitBtn: { en: "See the OEM product", zh: "查看OEM产品" } as L,
   splitBtnSlug: "customized-housing-ro-water-purifier",
   splitImgAlt: { en: "Customized housing RO water purifier", zh: "定制外观RO净水器" } as L,
+
+  // ---- Process timeline ----
+  processEyebrow: { en: "How it works", zh: "合作流程" } as L,
+  processH2: { en: "From first inquiry to your loading dock", zh: "从首次询盘到发货装柜" } as L,
+  process: [
+    { h3: { en: "Inquiry & consultation", zh: "需求沟通" }, p: { en: "Tell us your target market, volume and customization needs — we advise on the right platform and configuration.", zh: "告诉我们您的目标市场、预计数量与定制需求，我们为您推荐合适的平台与配置。" } },
+    { h3: { en: "Samples & customization", zh: "打样与定制" }, p: { en: "We build samples in your housing colours and branding for your review.", zh: "按您的外壳配色与品牌打样，供您确认。" } },
+    { h3: { en: "Sign-off", zh: "确认封样" }, p: { en: "You approve the sample, specs and packaging; we lock the production plan.", zh: "您确认样机、规格与包装，我们锁定生产方案。" } },
+    { h3: { en: "Production & QC", zh: "生产与品控" }, p: { en: "Mass production under IQC / PQC / OQC control, from raw material to finished unit.", zh: "量产全程IQC/PQC/OQC把控，从原材料到成品。" } },
+    { h3: { en: "Export & support", zh: "出口与支持" }, p: { en: "We handle export documentation and ship to your port, with technical support through your launch.", zh: "我们处理出口单证并发运至您的港口，上市全程提供技术支持。" } },
+  ] as Step[],
+
+  // ---- What you can customize ----
+  customizeEyebrow: { en: "Customization", zh: "可定制项" } as L,
+  customizeH2: { en: "Make it unmistakably your brand", zh: "打造专属于您的品牌" } as L,
+  customize: [
+    { icon: "wrench", h3: { en: "Housing & colour", zh: "外壳与配色" }, p: { en: "Your housing colours and surface finish.", zh: "您的外壳颜色与表面处理。" } },
+    { icon: "shield", h3: { en: "Branding", zh: "品牌标识" }, p: { en: "Your logo, silk-screen print and product naming.", zh: "您的LOGO、丝印与产品命名。" } },
+    { icon: "battery", h3: { en: "Packaging", zh: "包装" }, p: { en: "Custom retail box, manual and inserts.", zh: "定制彩盒、说明书与内衬。" } },
+    { icon: "globe", h3: { en: "Configuration", zh: "配置" }, p: { en: "Filter set, flow rate, with or without pump kit.", zh: "滤芯组合、通量、是否含泵组。" } },
+  ] as FeatureItem[],
+
+  // ---- Quality & certifications ----
+  qualityEyebrow: { en: "Quality & compliance", zh: "品质与合规" } as L,
+  qualityH2: { en: "Controlled from raw material to export", zh: "从原材料到出口，全程可控" } as L,
+  qualityP: {
+    en: "Every unit passes a three-stage quality gate, and our products and materials carry international certifications recognized by buyers worldwide.",
+    zh: "每一台产品都要通过三道质检关口；产品与材料持有全球买家认可的多项国际认证。",
+  } as L,
+  qc: [
+    { h3: { en: "IQC — Incoming", zh: "IQC 来料检验" }, p: { en: "Raw materials and components are inspected before they enter the line.", zh: "原材料与零部件入线前检验。" } },
+    { h3: { en: "PQC — In-process", zh: "PQC 制程检验" }, p: { en: "Checks at every assembly stage keep quality consistent.", zh: "每个装配环节在线检查，保证品质稳定。" } },
+    { h3: { en: "OQC — Outgoing", zh: "OQC 出货检验" }, p: { en: "Final inspection and testing before packing and export.", zh: "包装出口前的成品检验与测试。" } },
+  ] as Step[],
+  certH2: { en: "Certifications held", zh: "持有认证" } as L,
+
+  // ---- Factory ----
+  factoryH2: { en: "Inside the factory", zh: "工厂实拍" } as L,
+  factoryP: {
+    en: "Original brand, original designs, patent owner — engineered and built in-house since 2009.",
+    zh: "原创品牌、原创设计、专利持有——自2009年起自主研发与制造。",
+  } as L,
+  factoryImgs: [
+    { src: "/assets/img/oem-qc.webp", alt: { en: "Quality-control inspection of a KomiBright water purifier", zh: "KomiBright 净水器成品质检" } },
+    { src: "/assets/img/factory-workshop2.webp", alt: { en: "KomiBright production line", zh: "KomiBright 生产线" } },
+    { src: "/assets/img/oem-export.webp", alt: { en: "Finished units packed and palletised for export", zh: "成品打包码垛，待出口发运" } },
+  ] as { src: string; alt: L }[],
+
+  // ---- Export reach ----
+  exportEyebrow: { en: "Global reach", zh: "全球出口" } as L,
+  exportH2: { en: "Trusted in nearly 30 countries", zh: "近30个国家的信赖之选" } as L,
+  exportP: {
+    en: "KomiBright exports across the Middle East, Russia, Europe and Southeast Asia, with export experience and documentation handled in-house.",
+    zh: "KomiBright 产品远销中东、俄罗斯、欧洲与东南亚，出口经验丰富，单证自主处理。",
+  } as L,
+  exportStats: [
+    { b: "~30", label: { en: "Countries served", zh: "服务国家" } },
+    { b: "2009", label: { en: "Exporting since", zh: "出口始于" } },
+    { b: "4", label: { en: "Product generations", zh: "产品迭代" } },
+  ] as TrustItem[],
+  exportRegions: {
+    en: ["Middle East", "Russia", "Europe", "Southeast Asia"],
+    zh: ["中东", "俄罗斯", "欧洲", "东南亚"],
+  } as Record<Lang, string[]>,
+
+  // ---- Order terms (PLACEHOLDER figures — confirm before go-live) ----
+  termsH2: { en: "Order terms", zh: "订单条款" } as L,
+  termsNote: {
+    en: "Typical guidance — final terms are confirmed per project.",
+    zh: "以下为一般参考，最终条款按项目确认。",
+  } as L,
+  terms: [
+    { label: { en: "MOQ", zh: "起订量" }, value: { en: "Flexible", zh: "灵活" }, note: { en: "Order-dependent — tell us your volume.", zh: "视订单而定——请告知您的数量。" } },
+    { label: { en: "Lead time", zh: "交期" }, value: { en: "≈30–45 days", zh: "约 30–45 天" }, note: { en: "Mass production after sign-off (typical).", zh: "封样后量产（一般情况）。" } },
+    { label: { en: "Samples", zh: "样机" }, value: { en: "2–3 weeks", zh: "2–3 周" }, note: { en: "Paid; creditable against bulk orders.", zh: "付费打样，可抵扣批量订单。" } },
+  ] as { label: L; value: L; note: L }[],
+
+  // ---- OEM quote form ----
+  quoteEyebrow: { en: "Request a quote", zh: "获取报价" } as L,
+  quoteH2: { en: "Start your OEM project", zh: "启动您的OEM项目" } as L,
+  quoteP: {
+    en: "Tell us about your market and volume — we'll come back with a tailored proposal.",
+    zh: "告诉我们您的市场与数量——我们将提供量身定制的方案。",
+  } as L,
+  quoteSubject: { en: "OEM quote request", zh: "OEM报价请求" } as L,
+  quoteMarket: { en: "Target market", zh: "目标市场" } as L,
+  quoteVolume: { en: "Estimated volume", zh: "预计数量" } as L,
+  quotePlaceholder: {
+    en: "Which products? Customization needs — housing colour, branding, packaging?",
+    zh: "对哪些产品感兴趣？定制需求——外壳配色、品牌、包装？",
+  } as L,
 };
 
 // ------------------------------ Contact -------------------------------------

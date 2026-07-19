@@ -159,7 +159,9 @@ export default function SiteScripts() {
           g("name") +
           (g("company") ? " / " + g("company") : "") +
           "\nEmail: " +
-          g("email");
+          g("email") +
+          (g("market") ? "\nTarget market: " + g("market") : "") +
+          (g("volume") ? "\nEstimated volume: " + g("volume") : "");
         window.location.href =
           "mailto:" +
           (form.getAttribute("data-email") || "") +
