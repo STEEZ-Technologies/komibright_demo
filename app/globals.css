@@ -53,6 +53,11 @@ p{margin:0 0 1em;color:var(--ink-2)}
 .btn-contact{background:transparent;color:var(--ink-2)}
 .btn-contact:hover,.btn-contact:focus-visible{background:var(--bg-tint);color:var(--blue)}
 .btn-contact:active{background:var(--bg-tint);color:var(--blue-dark)}
+/* desktop only: make the header Contact button more visible (mobile stays plain) */
+@media (min-width:601px){
+  .header-cta .btn-contact{background:var(--bg-tint);color:var(--blue)}
+  .header-cta .btn-contact:hover,.header-cta .btn-contact:focus-visible{background:var(--blue);color:#fff}
+}
 
 /* ---------- header ---------- */
 .header{position:sticky;top:0;z-index:60;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
