@@ -58,7 +58,7 @@ export default function HomeView({ lang }: { lang: Lang }) {
           </div>
           <div className="hero-media">
             <Img
-              src="/assets/img/banner-2.webp"
+              src="/assets/img/hero-water.webp"
               alt={home.heroImgAlt[lang]}
               width={1200}
               height={960}
